@@ -1,3 +1,7 @@
+## 🚀 Live Site
+
+👉 https://docs.rebelrx.tech
+
 # RebelRx Guides
 
 Practical guides for Linux, self-hosting, privacy, homelab infrastructure, and evidence-based health education.
