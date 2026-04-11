@@ -1,0 +1,58 @@
+site_name: RebelRx Docs
+site_description: Practical guides for Linux, self-hosting, privacy, and evidence-based health education
+site_url: https://docs.rebelrx.tech
+repo_url: https://github.com/rebelrx
+repo_name: GitHub
+site_description: Practical guides across Linux, self-hosting, privacy, and health education
+site_author: RebelRx
+copyright: © 2026 RebelRx Group LLC. All rights reserved.
+
+theme:
+  name: material
+  logo: assets/images/rebelrxlogo.jpg
+  features:
+    - navigation.instant
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.path
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+nav:
+  - Home: index.md
+
+  - Linux:
+      - Overview: linux/index.md
+      - Artix Desktop: linux/artix-kde-openrc-install.md
+      - Devuan Server: linux/devuan-server-install.md
+
+  - Homelab:
+      - Overview: homelab/index.md
+      - Docker Compose: homelab/docker-home-lab.md
+
+  - Privacy:
+      - Overview: privacy/index.md
+      - App Recommendations: privacy/app-recommendations.md
+
+  - Health:
+      - Overview: health/index.md
+      - Medical Resources: health/medical-resources.md
+
+  - About: about.md
