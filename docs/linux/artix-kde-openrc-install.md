@@ -20,7 +20,9 @@ The general steps for installing Artix (similar to most Linux distributions) inc
 
 ## 1\. Boot the Live ISO
 
-Download the base OpenRC ISO from [artixlinux.org/download.php](https://artixlinux.org/download.php). Flash it to a USB drive. PulsarTECH has a great Ventoy + Linux multi-boot USB guide available at: [youtube.com/watch?v=BfjLJ0CqWsY](https://www.youtube.com/watch?v=BfjLJ0CqWsY) 
+Download the base OpenRC ISO from [artixlinux.org/download.php](https://artixlinux.org/download.php). Flash it to a USB drive
+
+- PulsarTECH has a great Ventoy + Linux multi-boot USB guide available at: [youtube.com/watch?v=BfjLJ0CqWsY](https://www.youtube.com/watch?v=BfjLJ0CqWsY)
 
 Linux command for USB:
 
@@ -241,18 +243,35 @@ mount /dev/nvme0n1p1 /mnt/boot/efi
 
 ## 8\. Install the Base System
 
+Refresh package mirrors:
+
+```bash
+pacman -Sy artix-keyring
+```
+
+Install base packages:
+
 ```bash
 basestrap /mnt base base-devel openrc elogind-openrc \
   linux linux-headers linux-firmware \
   amd-ucode \
   btrfs-progs \
   grub efibootmgr \
+  dbus dbus-openrc \
+  sudo \
   networkmanager networkmanager-openrc \
   zramen zramen-openrc \
   os-prober \
   pipewire pipewire-openrc pipewire-alsa pipewire-pulse pipewire-pulse-openrc pipewire-jack wireplumber wireplumber-openrc \
   nano vim neovim \
   git wget curl \
+  reflector \
+```
+
+Run reflector to use the fastest mirrors (will help speed up package installs as you progress along the installation):
+
+```bash
+reflector --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
 **A few package notes:**
@@ -376,7 +395,14 @@ Check `/etc/mkinitcpio.conf` to include the Btrfs module:
 cat /etc/mkinitcpio.conf | grep "^HOOKS"
 ```
 
-Check that modules are outputted. Then regenerate the initramfs:
+Check that modules are outputted. Ensure:
+
+```bash
+MODULES=(btrfs)
+HOOKS=(base udev autodetect modconf block filesystems keyboard fsck)
+```
+
+Then regenerate the initramfs:
 
 ```bash
 mkinitcpio -P
@@ -415,7 +441,7 @@ rc-update add zramen default
 
 ## 18\. Configure zram (Instead of Swap)
 
-Configure zram by editing `/etc/conf.d/zram`:
+Configure zram by editing `/etc/conf.d/zramen`:
 
 ```bash
 nano /etc/conf.d/zramen
@@ -464,7 +490,9 @@ pacman -S \
   kio-extras \
   udisks2 udisks2-openrc \
   polkit-kde-agent \
-  kde-cli-tools
+  kde-cli-tools \
+  kde-gtk-config \
+  xdg-user-dirs \
 ```
 
 **Enable SDDM:**
@@ -666,7 +694,8 @@ sudo pacman -S \
   fwupd bolt upower \
   sudo nano vim git curl wget rsync unzip zip \
   reflector pacman-contrib pkgfile \
-  bash-completion man-db man-pages
+  bash-completion man-db man-pages \
+  ufw \
 ```
 
 - **NetworkManager**: easiest desktop networking
@@ -677,6 +706,13 @@ sudo pacman -S \
 - **fwupd**: important on Framework for firmware updates
 - **bolt**: useful for Thunderbolt/USB4 device authorization
 - **SOF / ALSA firmware**: helps with modern laptop audio hardware
+- **ufw**: Uncomplicated Firewall for managing firewall
+
+ufw requires adding to openrc:
+
+```bash
+rc-update add ufw default
+```
 
 KDE and Utilities:
 
@@ -735,6 +771,14 @@ paru -S brave-bin \
 - **VSCodium** open-source text editor (preferred over Microsoft's Visual Studio Code)
 - **OnlyOffice** open-source office suite (preferred for greatest compatibility with Microsoft Office)
 - **Timeshift Autosnapper** installs a hook so Timeshift automatically creates a backup everytime packages are updated through pacman
+
+Flatpak:
+
+```bash
+pacman -S flatpak
+```
+
+- Flatpak if you want to install GUI apps easily
 
 Media apps:
 
