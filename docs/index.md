@@ -17,11 +17,11 @@ I am a medical professional (Doctor of Pharmacy and Registered Pharmacist) with 
 
 ## Featured Guides
 
-- [Artix OpenRC + KDE Desktop Manual Install Guide](linux/artix-kde-openrc-install.md)
+- [Artix Desktop Manual Install Guide](linux/artix-kde-openrc-install.md)
 - [Devuan Server Install Guide](linux/devuan-server-install.md)
 - [Home Lab + Docker Compose Guide](homelab/docker-home-lab.md)
 - [Privacy-Focused and Self-hosted App Recommendations](privacy/app-recommendations.md)
 
 ## Connect with RebelRx
 
-Have a request for a particular topic? Feedback or suggestions? Or questions? Please reach out at [nmoayer@rebelrx.com](mailto:nmoayer@rebelrx.com)
+Have a request for a particular topic? Feedback, suggestions, or questions? Please reach out at [nmoayer@rebelrx.com](mailto:nmoayer@rebelrx.com).

@@ -1,8 +1,8 @@
 site_name: RebelRx Docs
 site_description: Practical guides for Linux, self-hosting, privacy, and evidence-based health education
 site_url: https://docs.rebelrx.tech
-repo_url: https://github.com/rebelrx
-repo_name: GitHub
+repo_url: https://github.com/rebelrx/rebelrx-guides
+repo_name: rebelrx/rebelrx-guides
 site_author: RebelRx
 copyright: © 2026 RebelRx Group LLC. All rights reserved.
 
@@ -39,8 +39,8 @@ nav:
 
   - Linux:
       - Overview: linux/index.md
-      - Artix Desktop: linux/artix-kde-openrc-install.md
-      - Devuan Server: linux/devuan-server-install.md
+      - Artix Desktop Install: linux/artix-kde-openrc-install.md
+      - Devuan Server Install: linux/devuan-server-install.md
 
   - Homelab:
       - Overview: homelab/index.md
