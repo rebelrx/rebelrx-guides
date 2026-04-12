@@ -134,11 +134,11 @@ cfdisk /dev/nvme0n1
 
 **When cfdisk opens:**
 
-1.  If prompted for a label type, select **gpt**. If the drive already has an MBR/DOS table, delete all existing partitions first, then go to the bottom menu and select **\[ Write \]** to apply, then quit and re-run `cfdisk /dev/nvme0n1` — it will prompt for a new label type and you can pick **gpt**.
-2.  Select **\[ New \]** on the free space, type **1G**, press Enter. This creates the EFI partition.
-3.  With that partition highlighted, select **\[ Type \]** and choose **EFI System**.
-4.  Arrow down to the remaining free space, select **\[ New \]**, press Enter to accept the full remaining size. This creates the root partition (type defaults to **Linux filesystem**, which is correct).
-5.  Select **\[ Write \]**, type **yes** to confirm, then **\[ Quit \]**.
+1. If prompted for a label type, select **gpt**. If the drive already has an MBR/DOS table, delete all existing partitions first, then go to the bottom menu and select **\[ Write \]** to apply, then quit and re-run `cfdisk /dev/nvme0n1` — it will prompt for a new label type and you can pick **gpt**.
+2. Select **\[ New \]** on the free space, type **1G**, press Enter. This creates the EFI partition.
+3. With that partition highlighted, select **\[ Type \]** and choose **EFI System**.
+4. Arrow down to the remaining free space, select **\[ New \]**, press Enter to accept the full remaining size. This creates the root partition (type defaults to **Linux filesystem**, which is correct).
+5. Select **\[ Write \]**, type **yes** to confirm, then **\[ Quit \]**.
 
 **Final layout:**
 
@@ -770,7 +770,7 @@ paru -S brave-bin \
 - **Signal** messenger (preferred vs WhatsApp, Telegram, etc)
 - **VSCodium** open-source text editor (preferred over Microsoft's Visual Studio Code)
 - **OnlyOffice** open-source office suite (preferred for greatest compatibility with Microsoft Office)
-- **Timeshift Autosnapper** installs a hook so Timeshift automatically creates a backup everytime packages are updated through pacman
+- **Timeshift Autosnapper** installs a hook so Timeshift automatically creates a backup every time packages are updated through pacman
 
 Flatpak:
 

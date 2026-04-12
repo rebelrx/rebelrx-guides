@@ -1,6 +1,6 @@
 ## 🚀 Live Site
 
-👉 https://docs.rebelrx.tech
+👉 <https://docs.rebelrx.tech>
 
 # RebelRx Guides
 

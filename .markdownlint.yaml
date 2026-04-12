@@ -1,0 +1,16 @@
+default: true
+
+# Disable strict line length (important for web docs)
+MD013: false
+
+# Allow inline HTML (buttons, embeds, etc.)
+MD033: false
+
+# Don't require top-level heading in every file
+MD041: false
+
+# Allow emphasis as headings (your style)
+MD036: false
+
+# Don't require language on every code block
+MD040: false

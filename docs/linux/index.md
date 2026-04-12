@@ -12,11 +12,11 @@ Unfortunately, we are at the precipice of what most dysopian movies and stories 
 
 The entry point (beyond what is already established) will be the forced age/ID verification backbones embedded in the operating systems of all our electronic devices, including our desktop and mobile devices.
 
-Most notably, all major operating systems including Micosoft Windows, Apple macOS, Apple iOS, and Google Android have already incorporated these ID-verification systems into their operating systems.
+Most notably, all major operating systems including Microsoft Windows, Apple macOS, Apple iOS, and Google Android have already incorporated these ID-verification systems into their operating systems.
 
 Linux, with it's open-source philosophy, was thought to be an alternative to these systems. However, that is now no longer true.
 
-All operating systems require a primary initiliazation system (known as "init" in modern UNIX-based systems) which is the first process to boot after the system kernel is loaded into memory and is responsible for starting and managing core system services.
+All operating systems require a primary initialization system (known as "init" in modern UNIX-based systems) which is the first process to boot after the system kernel is loaded into memory and is responsible for starting and managing core system services.
 
 There are various types of init systems across different operating systems. Most modern Linux distributions now deploy an init known as "systemd," which for all of its issues, has already had its codebase updated by various bad actors in the Linux community to include age verification.
 

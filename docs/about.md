@@ -13,15 +13,19 @@ RebelRx Docs provides:
 ## Topics covered
 
 ### Linux
+
 Desktop and server setup, post-install configuration, and lightweight workflows for non-systemd distributions.
 
 ### Homelab
+
 Docker Compose, reverse proxies, storage, networking, backup strategy, and service architecture.
 
 ### Privacy
+
 Migration guides, tool comparisons, and practical ways to regain control over personal infrastructure.
 
 ### Health
+
 Educational content intended to help make better health choices and find trusted medical resources.
 
 ## Important note on health content

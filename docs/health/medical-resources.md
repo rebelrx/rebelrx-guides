@@ -9,4 +9,4 @@
 **Trusted medical practitioners:**
 
 - **Dr. John Kim:** [drjohnkimwellness.com](https://drjohnkimwellness.com)
-    - Visionary clinical pharmacist John Kim, renowned for his expertise in functional medicine.
+  - Visionary clinical pharmacist John Kim, renowned for his expertise in functional medicine.

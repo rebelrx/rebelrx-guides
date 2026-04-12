@@ -63,30 +63,30 @@ Boot the PC from USB. Here's a reference list of Boot Menu keys for various manu
 
 Once at the Devuan GUI screen, choose the `Install` option:
 
-1.  **Language, Location, Keyboard**
+1. **Language, Location, Keyboard**
     - Select your system language, location, and keyboard layout.
-2.  **Network Configuration**
+2. **Network Configuration**
     - The installer will automatically configure the network if connected via ethernet. If using WiFi, provide the SSID and passphrase for your network.
     - Enter a Hostname. Example: `devuanserver` (any name is fine, as long as there are no spaces or special characters)
     - Leave the Domain name blank (unless you want to add)
-3.  **Root Password and User Account**
+3. **Root Password and User Account**
     - Set a Root password
     - Add a user account. Example: `firstname`
     - Set a password for the user
-4.  **Clock and Timezone**
+4. **Clock and Timezone**
     - Enter your time zone. Example: Eastern
-5.  **Disk Partitioning**
+5. **Disk Partitioning**
     - If setting up encryption (optional), follow these instructions for partitioning disks: [devuan.org/os/documentation/install-guides/excalibur/full-disk-encryption.html](https://www.devuan.org/os/documentation/install-guides/excalibur/full-disk-encryption.html)
     - If not setting up encryption (recommended without for simplicity), select `Manual`
     - Follow the Partition Layout below based on preference (recommended Simple Partition Layout)
     - After creating the partitions, write the changes to disks - select `<Yes>`
-6.  **Package Manager Configuration**
+6. **Package Manager Configuration**
     - Select a Devuan archive mirror. Preferred choice is `deb.devuan.org`
-7.  **Popularity-Contest Configuration**
+7. **Popularity-Contest Configuration**
     - Participating in the package usage survey is optional. Select `<Yes>` or `<No>` based on preference
-8.  **Software Selection**
-    1.  Deselect everything then select only `SSH server` and `standard system utilities`. Do not select any desktop environment. This produces a minimal headless server install
-9.  Init System Selection
+8. **Software Selection**
+    1. Deselect everything then select only `SSH server` and `standard system utilities`. Do not select any desktop environment. This produces a minimal headless server install
+9. Init System Selection
     - Options for init are:
         - `sysvinit` (default, classic, well-documented)
         - `OpenRC` (modern, dependency-based, popular in Gentoo)
