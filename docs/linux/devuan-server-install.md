@@ -16,8 +16,8 @@ Installation is straightforward using the netinstall option.
 
 Before you begin:
 
-\- Ensure BIOS is set to UEFI (not legacy)  
-\- Enable virtualization (SVM/VT-x)  
+\- Ensure BIOS is set to UEFI (not legacy)
+\- Enable virtualization (SVM/VT-x)
 \- Disable secure boot (for NVIDIA drivers)
 
 * * *
@@ -428,7 +428,7 @@ Detect and install driver:
 
 ```bash
 sudo nvidia-detect
-sudo apt install nvidia-driver nvidia-kernel-dkms nvidia-smi nvidia-settings   
+sudo apt install nvidia-driver nvidia-kernel-dkms nvidia-smi nvidia-settings
 ```
 
 Only use backports if the default driver fails for your GPU:
