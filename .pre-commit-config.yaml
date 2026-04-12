@@ -29,6 +29,9 @@ repos:
       - id: mkdocs-build
         name: mkdocs build
         entry: mkdocs build --strict
-        language: system
+        language: python
+        additional_dependencies:
+          - mkdocs
+          - mkdocs-material
         pass_filenames: false
         stages: [pre-push]
