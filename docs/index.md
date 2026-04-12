@@ -2,11 +2,11 @@
 
 Welcome to RebelRx Docs, a free resource and in-depth information center for practical Linux guides, self-hosting, privacy, and evidence-based health education.
 
-This site is a collection of technical walkthroughs, migration guides, and reference pages to help you reduce your dependence on privacy invasive surveillance tech, learn how to master your own tools, and sharpening your mental clarity.
+This site is a collection of technical walkthroughs, migration guides, and reference pages to help you reduce your dependence on privacy invasive surveillance tech, learn how to master your own tools, sharpen your mental clarity, and make better choices.
 
 These guides were written by me through deep research, industry experience, many sleepless nights, and trial and error.
 
-I am a medical professional and tech hobbyist. I have a passion for sharing knowledge as a student of life. And, I hope I can help you on your journey of self-hosting and taking back your privacy.
+I am a medical professional (Doctor of Pharmacy and Registered Pharmacist) with years in the pharmaceutical industry. Having been a self-taught tech hobbyist, I have a passion for sharing knowledge as a student of life. And, I hope I can help you on your journey of self-hosting and taking back your privacy and health.
 
 ## Explore RebelRx Docs
 
