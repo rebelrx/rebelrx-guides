@@ -34,6 +34,15 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+
 nav:
   - Home: index.md
 
