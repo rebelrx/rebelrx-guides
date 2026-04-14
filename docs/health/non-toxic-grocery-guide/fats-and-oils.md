@@ -1,6 +1,6 @@
 # 🧈 Fats & Oils
 
-## Cooking Oils
+## 🍳 Cooking Oils
 
 ### ✅ With Cooking Oils, Look For
 
