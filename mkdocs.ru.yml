@@ -6,12 +6,12 @@ repo_name: rebelrx/rebelrx-guides
 site_author: RebelRx
 copyright: © 2026 RebelRx Group LLC. All rights reserved.
 
-docs_dir: docs
-site_dir: site
+docs_dir: docs-ru
+site_dir: site/ru
 
 theme:
   name: material
-  language: en
+  language: ru
   logo: assets/images/rebelrxlogo.jpg
   features:
     - navigation.instant
@@ -83,22 +83,7 @@ nav:
 
   - Health:
       - Overview: health/index.md
-      - Non-Toxic Grocery Guide:
-          - Overview: health/non-toxic-grocery-guide/index.md
-          - Quick Start: health/non-toxic-grocery-guide/quick-start.md
-          - Shopping Framework: health/non-toxic-grocery-guide/shopping-framework.md
-          - Produce: health/non-toxic-grocery-guide/produce.md
-          - Protein: health/non-toxic-grocery-guide/protein.md
-          - Fats & Oils: health/non-toxic-grocery-guide/fats-and-oils.md
-          - Dairy: health/non-toxic-grocery-guide/dairy.md
-          - Carbohydrates: health/non-toxic-grocery-guide/carbohydrates.md
-          - Pantry Staples: health/non-toxic-grocery-guide/pantry-staples.md
-          - Beverages: health/non-toxic-grocery-guide/beverages.md
-          - Packaged Foods: health/non-toxic-grocery-guide/packaged-foods.md
-          - Kitchen & Storage: health/non-toxic-grocery-guide/kitchen-and-storage.md
-          - Water Filtration: health/non-toxic-grocery-guide/water-filtration.md
-          - Budget Strategy: health/non-toxic-grocery-guide/budget-strategy.md
-          - Full Guide: health/non-toxic-grocery-guide/full-guide.md
+      - Non-Toxic Grocery Guide: health/non-toxic-grocery-guide.md
       - Medical Resources: health/medical-resources.md
       - Trusted Practitioners: health/practitioners.md
 

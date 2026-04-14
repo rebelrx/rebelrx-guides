@@ -19,8 +19,8 @@ I am a medical professional (Doctor of Pharmacy and Registered Pharmacist) with 
 
 - [Artix Desktop Manual Install Guide](linux/artix-kde-openrc-install.md)
 - [Devuan Server Install Guide](linux/devuan-server-install.md)
-- [Home Lab + Docker Compose Guide](homelab/docker-home-lab.md)
 - [Privacy-Focused and Self-hosted App Recommendations](privacy/app-recommendations.md)
+- [Non-Toxic Grocery Guide](health/non-toxic-grocery-guide/full-guide.md)
 
 ## Connect with RebelRx
 

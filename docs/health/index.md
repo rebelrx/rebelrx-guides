@@ -1,48 +1,90 @@
-# Health
+# 🧬 Health
 
-Educational content for finding real trusted medical resources, debunking mainstream clinical disinformation, and taking back your health.
+Educational content for finding real trusted medical resources, rethinking mainstream clinical disinformation, and taking back your health.
 
 RebelRx Health is built around a simple principle:
 
-> Treat root causes—not just symptoms.
+> Address root causes and not just symptoms to establish your health for the long-term.
 
 Modern "healthcare" is focused around acute care, pushing symptomatic treatment, and sometimes even directly poisoning the population.
 
-It often fails in:
+---
 
-- Chronic disease
-- Metabolic health
-- Prevention
+## 🚨 The Problem With Modern Healthcare
 
-This section focuses on:
+Modern systems are optimized for:
 
-- Root-cause medicine
-- Practical protocols
-- High-signal resources (no hype)
+- Acute intervention  
+- Symptom suppression  
+- Standardized protocols  
+
+They often fall short in:
+
+- Chronic disease management  
+- Metabolic health  
+- Prevention  
+- Individualized care  
 
 ---
 
-## 🧭 What You'll Find Here
+## 🧭 Start Here
 
-- **Medical Resources** → Tools, platforms, and practitioners
-- **Protocols** → Practical, real-world health strategies
-- **Labs & Biomarkers** → What actually matters
-- **Nutrition** → Foundational principles (not trends)
-- **Mental Health** → Nervous system + resilience
-- **Pharma vs Root Cause** → How to think critically
+If you're new, follow this path:
 
----
+1. 👉 **Non-Toxic Grocery Guide**  
+   Build a clean nutritional foundation (highest ROI)
 
-## ⚠️ Philosophy
+2. 👉 **Medical Resources**  
+   Find trustworthy supplements and platforms
 
-RebelRx is:
-
-- Evidence-aware (not blindly “evidence-based”)
-- Skeptical of industry incentives
-- Focused on long-term health outcomes
+3. 👉 **Trusted Practitioners**  
+   Find trustworthy practitioners
 
 ---
 
-## Disclaimer
+## 📚 What You’ll Find Here
 
-This content is educational and not medical advice.
+### 🛒 Foundations
+
+- **Nutrition** → Clean food, ingredient awareness, metabolic health  
+- **Environment** → Toxins, water, cookware, daily exposures  
+
+---
+
+### 🧪 Optimization
+
+- **Labs & Biomarkers** → What actually matters (and what doesn’t)  
+- **Protocols** → Practical, real-world strategies  
+
+---
+
+### 🧠 Systems Thinking
+
+- **Root-Cause Medicine** → Functional / systems-based approaches  
+- **Pharma vs Root Cause** → How to think critically about treatment  
+- **Mental Health** → Nervous system, stress, resilience  
+
+---
+
+### 🏥 Resources
+
+- **Medical Resources** → Tools, platforms, and testing  
+- **Practitioners** → How to find high-quality care  
+
+---
+
+## ⚖️ Philosophy
+
+RebelRx approach:
+
+    - Evidence-aware (not blindly “evidence-based”)  
+    - Skeptical of financial and institutional incentives  
+    - Focused on long-term outcomes, not short-term fixes  
+    - Practical > theoretical  
+
+---
+
+## ⚠️ Disclaimer
+
+This content is for **educational purposes only** and is not medical advice.  
+Always consult a qualified healthcare professional before making medical decisions.
