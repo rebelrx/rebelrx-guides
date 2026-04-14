@@ -55,6 +55,8 @@ nav:
 
   - Health:
       - Overview: health/index.md
+      - Non-Toxic Grocery Guide: health/non-toxic-grocery-guide
       - Medical Resources: health/medical-resources.md
+      - Trusted Practitioners: health/practitioners.md
 
   - About: about.md

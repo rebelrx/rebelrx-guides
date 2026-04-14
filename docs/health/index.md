@@ -2,15 +2,47 @@
 
 Educational content for finding real trusted medical resources, debunking mainstream clinical disinformation, and taking back your health.
 
-This section is intended to help readers think better about health information and find alternative sources.
+RebelRx Health is built around a simple principle:
 
-Content in this section is for educational purposes only and is not personal medical advice.
+> Treat root causes—not just symptoms.
 
-## Guides
+Modern "healthcare" is focused around acute care, pushing symptomatic treatment, and sometimes even directly poisoning the population.
 
-- [Medical Resources](medical-resources.md)
+It often fails in:
 
-## Guides In Development
+- Chronic disease
+- Metabolic health
+- Prevention
 
-- Supplements
-- Finding Real Medical Advice in an Age of Influencers and Shills
+This section focuses on:
+
+- Root-cause medicine
+- Practical protocols
+- High-signal resources (no hype)
+
+---
+
+## 🧭 What You'll Find Here
+
+- **Medical Resources** → Tools, platforms, and practitioners
+- **Protocols** → Practical, real-world health strategies
+- **Labs & Biomarkers** → What actually matters
+- **Nutrition** → Foundational principles (not trends)
+- **Mental Health** → Nervous system + resilience
+- **Pharma vs Root Cause** → How to think critically
+
+---
+
+## ⚠️ Philosophy
+
+RebelRx is:
+
+- Evidence-aware (not blindly “evidence-based”)
+- Skeptical of industry incentives
+- Focused on long-term health outcomes
+
+---
+
+## Disclaimer
+
+This content is educational and not medical advice.

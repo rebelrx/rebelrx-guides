@@ -1,12 +1,60 @@
 # Medical Resources
 
-**RebelRx Holistic Dispensary:** [us.fullscript.com/welcome/rebelrx](https://us.fullscript.com/welcome/rebelrx)
+A curated set of tools and platforms aligned with the RebelRx philosophy.
 
-- The official RebelRx supplement dispensary with curated protocols and direct discounts on high quality supplements through Fullscript, a leading digital health platform.
+---
 
-<div style="margin: 1.5rem 0;">[![Order supplements through my Fullscript store.](https://assets.fullscript.com/buttons/dark_200x200.svg)](https://us.fullscript.com/welcome/rebelrx?utm_medium=webreferral&utm_source=other&utm_campaign=abmwebbuttons_dark_200x200.svg&signup_source=website_buttons)</div>
+## 🧪 Supplements
 
-**Trusted medical practitioners:**
+### RebelRx Holistic Dispensary  
 
-- **Dr. John Kim:** [drjohnkimwellness.com](https://drjohnkimwellness.com)
-  - Visionary clinical pharmacist John Kim, renowned for his expertise in functional medicine.
+<https://us.fullscript.com/welcome/rebelrx>
+
+- Practitioner-grade supplements  
+- Curated protocols  
+- Transparent sourcing  
+
+<div style="margin: 1.5rem 0;">
+  <a href="https://us.fullscript.com/welcome/rebelrx" target="_top">
+    <img src="https://assets.fullscript.com/buttons/dark_200x200.svg" alt="Order supplements through RebelRx Fullscript dispensary">
+  </a>
+</div>
+
+---
+
+## 🧰 Lab Testing
+
+- <https://www.walkinlab.com>  
+- <https://www.ultalabtests.com>  
+
+Use these for:
+
+- Basic metabolic panels  
+- Lipids, insulin, A1c  
+- Thyroid markers  
+
+---
+
+## 📊 Health Tracking
+
+- Oura Ring  
+- Continuous Glucose Monitors (CGMs)  
+- Blood pressure monitoring  
+
+---
+
+## 🧠 Education Platforms
+
+- Clinicaltrials.gov  
+
+---
+
+## ⚠️ Notes
+
+Most health platforms are:
+
+- Incentivized  
+- Oversimplified  
+- Built for scale—not outcomes  
+
+Use tools wisely.
