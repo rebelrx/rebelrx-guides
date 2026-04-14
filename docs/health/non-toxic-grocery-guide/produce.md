@@ -29,7 +29,7 @@ If organic is out of your budget, these are generally lower priority (thick peel
 
 ---
 
-## Produce Best Practices
+## 🥬 Produce Best Practices
 
 - Wash all produce
 - Peel when appropriate  

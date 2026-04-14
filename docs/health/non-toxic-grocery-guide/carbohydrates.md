@@ -24,7 +24,7 @@ These provide:
 - Micronutrients
 - Slower digestion (more stable energy)
 
-## Complex Carb Examples
+## 🥔 Complex Carb Examples
 
 - Rice (white or brown, depending on tolerance)  
 - Potatoes / sweet potatoes  
@@ -44,7 +44,7 @@ These are typically:
 - Low in nutrients  
 - Often combined with additives and seed oils  
 
-## Processed Carbohydrate Examples
+## 🥨 Processed Carbohydrate Examples
 
 - Packaged snack foods  
 - Breakfast cereals with long ingredient lists  
@@ -80,7 +80,7 @@ These are typically:
 
 If you choose cereal, keep it simple and minimally processed.
 
-## Better Cereal Brands
+### 🥣 Better Cereal Brands
 
 - **Ezekiel 4:9 (Food for Life)**  
   - Sprouted grains  
@@ -98,7 +98,7 @@ If you choose cereal, keep it simple and minimally processed.
 
 ---
 
-## 🚫 What to Avoid in Cereals
+### 🚫 What to Avoid in Cereals
 
 - Artificial flavors or colors  
 - “Natural flavors”  
@@ -110,21 +110,21 @@ If you choose cereal, keep it simple and minimally processed.
 
 ## 🍞 Bread Guidance
 
-## Better Bread Options
+### 🍞 Better Bread Options
 
 - Local sourdough (fermented, simple ingredients)  
 - Sprouted grain bread  
 
 ---
 
-## 🚫 Avoid These Breads
+### 🚫 Avoid These Breads
 
 - Ultra-processed commercial bread  
 - Bread with preservatives and additives  
 
 ---
 
-## 🧭 Breads Practical Approach
+### 🧭 Breads Practical Approach
 
 You don’t need to eliminate carbs.
 

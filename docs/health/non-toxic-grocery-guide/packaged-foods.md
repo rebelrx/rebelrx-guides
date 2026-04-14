@@ -23,7 +23,7 @@ The goal is not elimination. It’s **selective use**.
 
 ---
 
-## Examples of Better Packaged Foods
+## 🧴 Examples of Better Packaged Foods
 
 - Simple sauces (clean ingredient lists)  
 - Crackers made from whole ingredients  

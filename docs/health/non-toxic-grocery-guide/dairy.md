@@ -18,7 +18,7 @@ The biggest factors:
 
 ## 🥛 Better Dairy Options
 
-## ✅ With dairy, look for
+### ✅ With Dairy, Look For
 
 - Grass-fed / pasture-raised  
 - Organic (baseline standard)  
@@ -40,12 +40,12 @@ Common issues with dairy:
 
 ## 🥛 Milk
 
-## ✅ With milk, look for
+### ✅ With Milk, Look For
 
 - Grass-fed, pasture-raised milk  
 - Organic whole milk  
 
-## Additional milk options (based on tolerance)
+### 🥛 Additional Milk Options (Based On Tolerance)
 
 - A2 milk (may be easier to digest for some)  
 - Raw milk (where legally and safely sourced)  
@@ -54,7 +54,7 @@ Common issues with dairy:
 
 ## 🧀 Cheese
 
-## ✅ With cheese, look for
+### ✅ With Cheese, Look For
 
 - Aged cheeses (often easier to digest)  
 - Raw or minimally processed cheese  
@@ -64,7 +64,7 @@ Common issues with dairy:
 
 ## 🥣 Yogurt / Fermented Dairy
 
-## ✅ With yogurt / fermented dairy, look for
+### ✅ With Yogurt / Fermented Dairy, Look For
 
 - Plain, full-fat yogurt  
 - Greek yogurt (no added sugar)  

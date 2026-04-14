@@ -1,4 +1,4 @@
-# Non-Toxic Grocery Guide
+# 🌱 Non-Toxic Grocery Guide
 
 Modern food systems are not optimized for human health. They are optimized for:
 
@@ -6,7 +6,7 @@ Modern food systems are not optimized for human health. They are optimized for:
 - Cost
 - Convenience
 
-## What This Guide Is
+## 📖 What This Guide Is
 
 A practical, real-world framework focused on:
 
@@ -158,7 +158,7 @@ If organic is out of your budget, these are generally lower priority (thick peel
 
 ---
 
-### Produce Best Practices
+### 🥬 Produce Best Practices
 
 - Wash all produce
 - Peel when appropriate  
@@ -222,11 +222,11 @@ If organic is out of your budget, these are generally lower priority (thick peel
 
 ## 🐓 Poultry
 
-### ✅ With poultry, look for
+### ✅ With Poultry, Look For
 
 - Pasture-raised  
 
-### ⚠️ With poultry, caution with
+### ⚠️ With Poultry, Caution With
 
 - “Free-range”  
 - “Cage-free”  
@@ -256,11 +256,11 @@ If organic is out of your budget, these are generally lower priority (thick peel
 
 ## 🐟 Fish
 
-### ✅ With fish, look for
+### ✅ With Fish, Look For
 
 - Wild-caught  
 
-### ⚠️ With fish, caution with
+### ⚠️ With Fish, Caution With
 
 - Farmed fish (variable quality)  
 
@@ -290,9 +290,9 @@ Better options:
 
 ## 🧈 Fats & Oils
 
-### Cooking Oils
+## 🍳 Cooking Oils
 
-### ✅ With cooking oils, look for
+### ✅ With Cooking Oils, Look For
 
 - Grass fed **butter**
 - Grass fed **ghee**
@@ -300,14 +300,16 @@ Better options:
 - Extra virgin olive oil (authentic)
 - Extra virgin avocado oil (authentic)
 
-### ⚠️ With cooking oils, caution with
+### ⚠️ With Cooking Oils, Caution With
 
 - Coconut oil (due to high saturated fat content)
 - **Red** palm oil (minimally processed, but high in saturated fats)
 - Flaxseed oil (only cold use)
 - Sesame oil (fine in small amounts, not high heat)
 
-### 🚫 With cooking oils, avoid (especially for high heat cooking)
+### 🚫 With Cooking Oils, Avoid
+
+Avoid especially for high heat cooking:
 
 - Canola oil
 - Corn oil
@@ -326,18 +328,18 @@ Better options:
 
 ## 🫒 Olive Oil
 
-### ✅ With olive oils, look for
+### ✅ With Olive Oil, Look For
 
 - Date and location for the harvest; check if you can scan a QR code to trace the production chain
 - Look up for seals from a third-party certifier, tester or consortium, like DOP or IGP
 
-### ⚠️ With olive oils, caution with
+### ⚠️ With Olive Oil, Caution With
 
 - Domestic (US) is typically safe from adulteration, but may not be 100% extra virgin
 - Imported (EU) may be adulterated with other low-quality oils or not 100% extra virgin
 - Greek olive oils from small farms tend to be of highest quality, while Italian or Spanish may be more difficult to ascertain
 
-### 🚫 With olive oil, avoid
+### 🚫 With Olive Oil, Avoid
 
 - Mass-produced imported olive oils (higher risk of adulteration)
 - Products without harvest date or traceability
@@ -352,7 +354,7 @@ Olive oil fraud is rampant. It used to be isolated to Italy, but now most of the
 
 ---
 
-### Olive Oil Options
+### 🫒 Olive Oil Options
 
 - Ellora Farms → <https://ellorafarms.com/>
 - Graza → <https://www.graza.co>
@@ -362,7 +364,7 @@ Olive oil fraud is rampant. It used to be isolated to Italy, but now most of the
 
 ## 🧈 Butter / Ghee
 
-### ✅ With butter, look for
+### ✅ With Butter, Look For
 
 - High butterfat content (>80% butterfat)
 - Pasture raised + 100% Grass fed
@@ -370,7 +372,7 @@ Olive oil fraud is rampant. It used to be isolated to Italy, but now most of the
 - Additive free
 - PFAS-free
 
-### 🚫 With butter, avoid
+### 🚫 With Butter, Avoid
 
 - Low-quality butter with added flavoring or coloring  
 - Grain-fed, conventional sources
@@ -433,7 +435,7 @@ Prioritize:
 
 ---
 
-### Butter Options
+### 🧈 Butter Options
 
 - Organic Valley → <https://www.organicvalley.coop/>
 - Anchor → <https://www.anchordairy.com/>
@@ -442,14 +444,14 @@ Prioritize:
 
 ---
 
-### Ghee Options
+### 🧈 Ghee Options
 
 - Carrington Farms → <https://carringtonfarms.com/>  
 - 4th & Heart → <https://fourthandheart.com/>
 
 ---
 
-## 🫒 Oils for Finishing (Not Cooking)
+## 🫒 Oils For Finishing (Not Cooking)
 
 Not all oils should be used the same way.
 
@@ -463,9 +465,9 @@ Some oils are best used **raw or low-heat only** to preserve quality and avoid d
 
 ---
 
-### ✅ For finishing oils, look for
+### ✅ For Finishing Oils, Look For
 
-#### Extra Virgin Olive Oil (EVOO)
+#### 🫒 Extra Virgin Olive Oil (EVOO)
 
 - Rich in antioxidants and polyphenols  
 - Minimally processed  
@@ -479,7 +481,7 @@ Use for:
 
 ---
 
-### Optional: Specialty Oils (Small Batch)
+#### ⚠️ Optional: Specialty Oils (Small Batch)
 
 Examples:
 
@@ -503,7 +505,7 @@ Examples:
 
 ### 🚫 Avoid / Limit These Finishing Oils
 
-#### Seed Oils (Especially for Finishing)
+#### 🛢️Seed Oils (Especially for Finishing)
 
 - Canola  
 - Soybean  
@@ -515,7 +517,7 @@ Examples:
 
 ---
 
-#### Low-Quality Olive Oil
+#### 🛢️ Low-Quality Olive Oil
 
 - Adulterated or diluted products are common  
 - Often mislabeled as “extra virgin”  
@@ -558,7 +560,7 @@ Focus on quality, freshness, and transparency, not quantity.
 
 ---
 
-### 🫒 EVOO Options (Primary)
+#### 🫒 EVOO Options (Primary)
 
 - Ellora Farms → <https://ellorafarms.com/>  
   - Single-origin (Greece)  
@@ -575,7 +577,7 @@ Focus on quality, freshness, and transparency, not quantity.
 
 ---
 
-### 🫒 Premium / Small Batch EVOO Options (Optional Upgrade)
+#### 🫒 Premium / Small Batch EVOO Options (Optional Upgrade)
 
 - Kosterina → <https://www.kosterina.com>  
   - High-polyphenol Greek olive oil  
@@ -585,7 +587,7 @@ Focus on quality, freshness, and transparency, not quantity.
 
 ---
 
-### 🥑 Avocado Oil (If Using as Finishing)
+#### 🥑 Avocado Oil (If Using as Finishing)
 
 - Chosen Foods → <https://chosenfoods.com>  
   - One of the more consistently verified options  
@@ -620,7 +622,7 @@ The biggest factors:
 
 ### 🥛 Better Dairy Options
 
-### ✅ With dairy, look for
+#### ✅ With Dairy, Look For
 
 - Grass-fed / pasture-raised  
 - Organic (baseline standard)  
@@ -642,12 +644,12 @@ Common issues with dairy:
 
 ## 🥛 Milk
 
-### ✅ With milk, look for
+### ✅ With Milk, Look For
 
 - Grass-fed, pasture-raised milk  
 - Organic whole milk  
 
-### Additional milk options (based on tolerance)
+### 🥛 Additional Milk Options (Based On Tolerance)
 
 - A2 milk (may be easier to digest for some)  
 - Raw milk (where legally and safely sourced)  
@@ -656,7 +658,7 @@ Common issues with dairy:
 
 ## 🧀 Cheese
 
-### ✅ With cheese, look for
+### ✅ With Cheese, Look For
 
 - Aged cheeses (often easier to digest)  
 - Raw or minimally processed cheese  
@@ -666,7 +668,7 @@ Common issues with dairy:
 
 ## 🥣 Yogurt / Fermented Dairy
 
-### ✅ With yogurt / fermented dairy, look for
+### ✅ With Yogurt / Fermented Dairy, Look For
 
 - Plain, full-fat yogurt  
 - Greek yogurt (no added sugar)  
@@ -768,7 +770,7 @@ These provide:
 - Micronutrients
 - Slower digestion (more stable energy)
 
-### Complex Carb Examples
+### 🥔 Complex Carb Examples
 
 - Rice (white or brown, depending on tolerance)  
 - Potatoes / sweet potatoes  
@@ -788,7 +790,7 @@ These are typically:
 - Low in nutrients  
 - Often combined with additives and seed oils  
 
-### Processed Carbohydrate Examples
+### 🥨 Processed Carbohydrate Examples
 
 - Packaged snack foods  
 - Breakfast cereals with long ingredient lists  
@@ -824,7 +826,7 @@ These are typically:
 
 If you choose cereal, keep it simple and minimally processed.
 
-### Better Cereal Brands
+### 🥣 Better Cereal Brands
 
 - **Ezekiel 4:9 (Food for Life)**  
   - Sprouted grains  
@@ -854,7 +856,7 @@ If you choose cereal, keep it simple and minimally processed.
 
 ### 🍞 Bread Guidance
 
-### Better Bread Options
+### 🍞 Better Bread Options
 
 - Local sourdough (fermented, simple ingredients)  
 - Sprouted grain bread  
@@ -944,7 +946,7 @@ Quality matters more than quantity.
 
 ---
 
-### ✅ For spices, look for
+### ✅ For Spices, Look For
 
 - Organic (reduces pesticide exposure)  
 - Single-ingredient (no fillers or additives)  
@@ -953,7 +955,7 @@ Quality matters more than quantity.
 
 ---
 
-### Whole Spices (Preferred)
+### 🌿 Whole Spices (Preferred)
 
 - Less processed  
 - Longer shelf life  
@@ -969,7 +971,7 @@ Examples:
 
 ---
 
-### High-Quality Sea Salt
+### 🧂 High-Quality Sea Salt
 
 - Minimally processed  
 - No anti-caking agents  
@@ -978,7 +980,7 @@ Examples:
 
 ### ⚖️ Consider For Spices
 
-#### Ground Spices
+#### ⚠️ Ground Spices
 
 - More convenient  
 - Slightly more processed  
@@ -987,7 +989,7 @@ Examples:
 
 ---
 
-### Blended Seasonings
+### 🍃 Blended Seasonings
 
 - Can be useful  
 
@@ -1000,14 +1002,14 @@ Examples:
 
 ### 🚫 Avoid / Limit These Spices
 
-#### Conventional (Non-Organic) Spices
+#### 🚫 Conventional (Non-Organic) Spices
 
 - Can carry pesticide residues  
 - Often lower quality sourcing  
 
 ---
 
-#### Spices with Additives
+#### 🚫 Spices with Additives
 
 - Anti-caking agents  
 - Artificial flavors  
@@ -1015,7 +1017,7 @@ Examples:
 
 ---
 
-#### Old / Stale Spices
+#### 🚫 Old / Stale Spices
 
 - Lose potency over time  
 - Can degrade in quality  
@@ -1095,9 +1097,9 @@ The difference comes down to:
 
 ---
 
-### ✅ With vingeras, look for
+### ✅ With Vinegars, Look For
 
-### Apple Cider Vinegar (ACV)
+### 🍏 Apple Cider Vinegar (ACV)
 
 ✅ With ACV, look for:
 
@@ -1115,7 +1117,7 @@ Use for:
 
 ---
 
-### Balsamic Vinegar
+### ⚫ Balsamic Vinegar
 
 ✅ With balsamic vinegar, look for:
 
@@ -1124,7 +1126,7 @@ Use for:
 
 ---
 
-### Red / White Wine Vinegar
+### 🍇 Red / White Wine Vinegar
 
 ✅ With red / white wine vinegar, look for:
 
@@ -1135,7 +1137,7 @@ Use for:
 
 ### ⚖️ Consider With Vinegar
 
-### Filtered / Pasteurized Vinegar
+### ⚠️ Filtered / Pasteurized Vinegar
 
 - More shelf-stable  
 - Less “alive” than raw versions  
@@ -1144,7 +1146,7 @@ Use for:
 
 ---
 
-### Flavored Vinegars
+### ⚠️ Flavored Vinegars
 
 - Can be useful for variety  
 
@@ -1157,7 +1159,7 @@ Use for:
 
 ### 🚫 Avoid / Limit These Vinegars
 
-### Low-Quality Balsamic
+### 🚫 Low-Quality Balsamic
 
 Often contains:
 
@@ -1169,7 +1171,7 @@ Often contains:
 
 ---
 
-### Vinegars with Additives
+### 🚫 Vinegars with Additives
 
 - Artificial flavors  
 - Preservatives  
@@ -1228,7 +1230,7 @@ That covers most use cases.
 
 ---
 
-### Balsamic Vinegar Brands
+### ⚫ Balsamic Vinegar Brands
 
 - California Olive Ranch (Lucini) → <https://www.californiaoliveranch.com>
 - Kirkland Signature (Costco) Organic Balsamic Vinegar of Modena → <https://www.costco.com/>  
@@ -1245,7 +1247,7 @@ Vinegar should be simple.
 
 ## 🥤 Beverages
 
-## 💧 Water
+## 🚰 Water
 
 Water is one of the most important daily inputs and one of the most overlooked.
 
@@ -1259,9 +1261,9 @@ Quality varies widely depending on source and treatment.
 
 ---
 
-### ✅ With water, use
+### ✅ With Water, Use
 
-### Filtered Water (Preferred)
+#### 💧 Filtered Water (Preferred)
 
 - Use a high-quality home filtration system (see Water Filtration section)  
 - Removes common contaminants:
@@ -1274,7 +1276,7 @@ Quality varies widely depending on source and treatment.
 
 ---
 
-### Spring Water (Glass Bottled Preferred)
+#### 💧 Spring Water (Glass Bottled Preferred)
 
 - Naturally filtered through underground sources  
 - Contains naturally occurring minerals  
@@ -1289,7 +1291,7 @@ Best option:
 
 ### ⚖️ Consider With Water
 
-### Mineral Water
+#### ⚠️ Mineral Water
 
 - Naturally occurring minerals  
 - Can support taste and electrolyte balance  
@@ -1298,7 +1300,7 @@ Best option:
 
 ---
 
-### Remineralized Water
+#### ⚠️ Remineralized Water
 
 - Often used with reverse osmosis systems  
 - Adds minerals back after filtration  
@@ -1307,21 +1309,21 @@ Best option:
 
 ### 🚫 Avoid / Limit These Waters
 
-### Plastic Bottled Water
+#### 🚫 Plastic Bottled Water
 
 - Risk of microplastic exposure  
 - Potential chemical leaching (especially with heat)  
 
 ---
 
-### Unfiltered Tap Water
+#### 🚫 Unfiltered Tap Water
 
 - Variable quality  
 - May contain multiple contaminants  
 
 ---
 
-### “Enhanced” or Flavored Waters
+#### 🚫 “Enhanced” or Flavored Waters
 
 - Added sweeteners or “natural flavors”  
 - Often unnecessary additives  
@@ -1371,7 +1373,7 @@ Alcohol is not a health food, but if you choose to drink, quality and simplicity
 
 ### ✅ Better Alcohol Options
 
-### Wine (Lower Intervention Preferred)
+#### Wine (Lower Intervention Preferred)
 
 ✅ Look for:
 
@@ -1383,7 +1385,7 @@ Alcohol is not a health food, but if you choose to drink, quality and simplicity
 
 ---
 
-### Simple Spirits
+#### 🍶 Simple Spirits
 
 Better choices:
 
@@ -1397,7 +1399,7 @@ Better choices:
 
 ### ⚖️ Consider with Alcohol
 
-### Beer
+### 🍺 Beer
 
 - Choose simpler, traditional styles  
 - Organic options when available  
@@ -1406,7 +1408,7 @@ Better choices:
 
 ---
 
-### Mixers
+### 🍋‍🟩 Mixers
 
 - Use:
   - Soda water  
@@ -1440,7 +1442,7 @@ Focus on simplicity, transparency, and minimal additives.
 
 ---
 
-### 🥃 Tequila (100% Agave Only)
+#### 🥃 Tequila (100% Agave Only)
 
 ✅ Look for:
 
@@ -1463,7 +1465,7 @@ Better options:
 
 ---
 
-### 🍸 Vodka (Simple, Minimal Ingredients)
+#### 🍸 Vodka (Simple, Minimal Ingredients)
 
 ✅ Look for:
 
@@ -1482,7 +1484,7 @@ Better options:
 
 ---
 
-### 🍷 Wine (Lower-Intervention Preferred)
+#### 🍷 Wine (Lower-Intervention Preferred)
 
 ✅ Look for:
 
@@ -1553,7 +1555,7 @@ The difference comes down to:
 
 ---
 
-### ✅ With coffee, look for
+### ✅ With Coffee, Look For
 
 - Organic (reduces pesticide exposure)  
 - Mold-tested / mycotoxin-tested  
@@ -1562,7 +1564,7 @@ The difference comes down to:
 
 ---
 
-### Coffee Bean Type
+### 🫘 Coffee Bean Type
 
 - Whole bean (preferred)  
 - Grind fresh before brewing  
@@ -1571,7 +1573,7 @@ The difference comes down to:
 
 ---
 
-### Coffee Roast Level
+### 🫘 Coffee Roast Level
 
 - Light to medium roast → generally retains more beneficial compounds  
 - Dark roast → lower acidity, but more processing  
@@ -1582,21 +1584,21 @@ The difference comes down to:
 
 ### ⚖️ Consider These Coffees
 
-### Single-Origin Coffee
+#### 🫘 Single-Origin Coffee
 
 - More transparency in sourcing  
 - Often higher quality  
 
 ---
 
-### Shade-Grown Coffee
+#### 🫘 Shade-Grown Coffee
 
 - More natural growing conditions  
 - Often associated with better farming practices  
 
 ---
 
-### Decaf (If Needed)
+#### 🫘 Decaf (If Needed)
 
 - Choose water-processed (Swiss Water Process)  
 - Avoid chemical solvent decaffeination  
@@ -1605,14 +1607,14 @@ The difference comes down to:
 
 ### 🚫 Avoid / Limit These Coffees
 
-### Conventional Coffee
+#### 🚫 Conventional Coffee
 
 - One of the most pesticide-heavy crops  
 - Often lower quality sourcing  
 
 ---
 
-### Mold / Mycotoxin Exposure
+#### 🚫 Mold / Mycotoxin Exposure
 
 - Poor storage and processing can lead to contamination  
 
@@ -1620,7 +1622,7 @@ The difference comes down to:
 
 ---
 
-### Coffee Additives
+#### 🚫 Coffee Additives
 
 - Artificial creamers  
 - Flavored syrups  
@@ -1656,7 +1658,7 @@ Focus on clean sourcing, transparency, and minimal contamination.
 
 ---
 
-### 🔝 Higher-Standard Coffee (Clean / Non-Toxic Focus)
+#### 🔝 Higher-Standard Coffee (Clean / Non-Toxic Focus)
 
 - Purity Coffee → <https://puritycoffee.com>  
   - Mold + toxin tested  
@@ -1670,7 +1672,7 @@ Focus on clean sourcing, transparency, and minimal contamination.
 
 ---
 
-### ✅ Solid Mainstream Coffee Options (If Needed)
+#### ✅ Solid Mainstream Coffee Options (If Needed)
 
 - Illy → <https://www.illy.com>  
   - Consistent quality  
@@ -1733,7 +1735,7 @@ Quality depends on:
 
 ---
 
-### ✅ With tea, look for
+### ✅ With Tea, Look For
 
 - Organic (reduces pesticide exposure)  
 - Whole leaf or loose-leaf  
@@ -1742,7 +1744,7 @@ Quality depends on:
 
 ---
 
-### Tea Types
+### 🫖 Tea Types
 
 All can be part of a clean routine:
 
@@ -1752,7 +1754,7 @@ All can be part of a clean routine:
 
 ---
 
-### Loose Leaf Tea (Preferred)
+#### 🍃 Loose Leaf Tea (Preferred)
 
 - Higher quality  
 - Less processing  
@@ -1764,7 +1766,7 @@ All can be part of a clean routine:
 
 ### ⚖️ Consider Teas
 
-### Tea Bags (Higher Quality Only)
+#### ⚠️ Tea Bags (Higher Quality Only)
 
 - Convenient, but varies widely in quality  
 
@@ -1775,7 +1777,7 @@ All can be part of a clean routine:
 
 ---
 
-### Herbal / Functional Teas
+#### 🌺 Herbal / Functional Teas
 
 - Can support digestion, sleep, or stress  
 
@@ -1785,14 +1787,14 @@ All can be part of a clean routine:
 
 ### 🚫 Avoid / Limit These Teas
 
-### Conventional (Non-Organic) Tea
+#### 🚫 Conventional (Non-Organic) Tea
 
 - Tea leaves can carry pesticide residues  
 - Especially important since leaves are directly infused  
 
 ---
 
-### Low-Quality Tea Bags
+#### 🚫Low-Quality Tea Bags
 
 - May contain:
   - Bleached paper  
@@ -1801,7 +1803,7 @@ All can be part of a clean routine:
 
 ---
 
-### Flavored Teas
+#### 🚫 Flavored Teas
 
 - Often contain:
   - “Natural flavors”  
@@ -1833,7 +1835,7 @@ Focus on organic sourcing, minimal processing, and simple ingredients.
 
 ---
 
-### 🌿 Baseline Tea (Accessible, Reliable)
+#### 🌿 Baseline Tea (Accessible, Reliable)
 
 - Traditional Medicinals → <https://traditionalmedicinals.com>  
   - Organic herbal blends  
@@ -1847,7 +1849,7 @@ Focus on organic sourcing, minimal processing, and simple ingredients.
 
 ---
 
-### 🍃 Higher-Quality Tea (Loose Leaf / Cleaner Sourcing)
+#### 🍃 Higher-Quality Tea (Loose Leaf / Cleaner Sourcing)
 
 - Rishi Tea → <https://rishi-tea.com>  
   - Organic, direct trade sourcing  
@@ -1866,7 +1868,7 @@ Focus on organic sourcing, minimal processing, and simple ingredients.
 
 ---
 
-### 🍵 Premium / Specialty Tea (Optional)
+#### 🍵 Premium / Specialty Tea (Optional)
 
 - Kettl → <https://kettl.co>  
   - High-quality Japanese teas  
@@ -1934,7 +1936,7 @@ The goal is not elimination. It’s **selective use**.
 
 ---
 
-### Examples of Better Packaged Foods
+### 🧴 Examples of Better Packaged Foods
 
 - Simple sauces (clean ingredient lists)  
 - Crackers made from whole ingredients  
@@ -2024,7 +2026,7 @@ Packaged foods are where most people lose control of quality.
 
 ## 🫙 Containers
 
-### ✅ With storage containers, look for
+### ✅ With Storage Containers, Look For
 
 - Glass: Durable, reusable, and non-toxic. Can store liquids or solids
 - Stainless steel: Sturdy, rust-resistant, and easy to clean
@@ -2032,13 +2034,13 @@ Packaged foods are where most people lose control of quality.
 
 ---
 
-### ⚠️ With storage containers, consider
+### ⚠️ With Storage Containers, Caution With
 
 - Silicone: Food-grade are lightweight, collapsible, easy to store, and reusable. But, does retain odors
 
 ---
 
-### 🚫With storage containers, avoid
+### 🚫 With Storage Containers, Avoid
 
 - Plastic:
   - Can leach chemicals into food (especially with heat)
@@ -2046,19 +2048,19 @@ Packaged foods are where most people lose control of quality.
 
 ---
 
-### Storage Options
+### 🍱 Storage Options
 
-### Glass storage containers
+#### ✅ Glass storage containers
 
 - Pyrex (glass) → <https://pyrexhome.com/collections/glass-food-storage>
 - Ball Mason Jars → <https://www.ballmasonjars.com/>
 - Weck jars → <https://weckjars.com>
 
-### Stainless Steel storage containers
+#### ✅ Stainless Steel storage containers
 
 - Bambu → <https://www.bambuhome.com/>
 
-### Silicone bags
+#### ✅ Silicone bags
 
 - Stasher → <https://www.stasherbag.com/>
 
@@ -2072,9 +2074,9 @@ Heat + materials = potential chemical exposure
 
 ---
 
-### ✅ With cookware, look for
+### ✅ With Cookware, Look For
 
-### Stainless Steel cookware
+#### ✅ Stainless Steel Cookware
 
 - Durable, non-reactive, and versatile  
 - Safe for most cooking methods  
@@ -2087,7 +2089,7 @@ Best for:
 
 ---
 
-### Cast Iron cookware
+#### ✅ Cast Iron Cookware
 
 - Extremely durable and long-lasting  
 - Naturally non-stick when seasoned  
@@ -2100,7 +2102,7 @@ Best for:
 
 ---
 
-### Carbon Steelc cookware
+#### ✅ Carbon Steel Cookware
 
 - Similar to cast iron, but lighter  
 - Naturally non-stick with seasoning  
@@ -2112,7 +2114,7 @@ Best for:
 
 ---
 
-### Ceramic cookware (High-Quality, True Ceramic)
+#### ✅ Ceramic Cookware (High-Quality, True Ceramic)
 
 - Non-reactive and heat-resistant  
 - Good for baking and slow cooking  
@@ -2123,7 +2125,7 @@ Best for:
 
 ---
 
-### Titanium / Advanced Alloys cookware
+#### ✅ Titanium / Advanced Alloys Cookware
 
 - Non-reactive and highly durable  
 - Often used in premium cookware  
@@ -2132,7 +2134,7 @@ Best for:
 
 ---
 
-### Enameled Cast Iron cookware
+#### ✅ Enameled Cast Iron Cookware
 
 - Cast iron core with protective coating  
 - Easier maintenance (no seasoning required)  
@@ -2145,7 +2147,7 @@ Best for:
 
 ### 🚫 Avoid / Limit These Cookware
 
-### Non-Stick (Teflon / PFAS Coatings)
+#### 🚫 Non-Stick (Teflon / PFAS Coatings)
 
 - Can release harmful compounds when overheated  
 - Degrades over time (especially when scratched)  
@@ -2154,14 +2156,14 @@ Best for:
 
 ---
 
-### Cheap Aluminum
+#### 🚫 Cheap Aluminum
 
 - Can leach into food (especially acidic foods)  
 - Often used in low-quality cookware  
 
 ---
 
-### Damaged Cookware
+#### 🚫 Damaged Cookware
 
 - Scratched non-stick  
 - Chipped coatings  
@@ -2196,33 +2198,33 @@ That covers 90% of cooking.
 
 ### 🛒 Recommended Cookware Brands
 
-### Stainless Steel Brands
+#### 🛒 Stainless Steel Brands
 
 - Made In → <https://madeincookware.com>  
 - All-Clad → <https://www.all-clad.com>  
 
 ---
 
-### Cast Iron Brands
+### 🛒 Cast Iron Brands
 
 - Lodge → <https://www.lodgecastiron.com/>  
 
 ---
 
-### Carbon Steel Brands
+### 🛒 Carbon Steel Brands
 
 - Made In → <https://madeincookware.com>  
 - De Buyer → <https://www.debuyer.com>  
 
 ---
 
-### Titanium / Premium Brands
+### 🛒 Titanium / Premium Brands
 
 - Hestan → <https://hestanculinary.com>  
 
 ---
 
-### Enameled Cast Iron Brands
+### 🛒 Enameled Cast Iron Brands
 
 - Le Creuset → <https://www.lecreuset.com>  
 - Staub → <https://www.zwilling.com/us/staub>  
@@ -2245,9 +2247,9 @@ Surfaces + blades = direct contact with your food.
 
 ---
 
-### ✅ With cutlery, look for
+### ✅ With Cutlery, Look For
 
-### Knives (High-Quality Steel)
+#### ✅ Knives (High-Quality Steel)
 
 - Stainless steel or high-carbon steel  
 - Durable, stable, and non-toxic  
@@ -2260,7 +2262,7 @@ Surfaces + blades = direct contact with your food.
 
 ---
 
-### Cutting Boards (Wood Preferred)
+#### ✅ Cutting Boards (Wood Preferred)
 
 - Natural, non-toxic surface  
 - Gentle on knives  
@@ -2272,7 +2274,7 @@ Best options:
 
 ---
 
-### Utensils
+#### ✅ Utensils
 
 Use:
 
@@ -2284,7 +2286,7 @@ Use:
 
 ### ⚖️ Consider These Cutlery
 
-### Bamboo Cutting Boards
+#### ⚠️ Bamboo Cutting Boards
 
 - Lightweight and sustainable  
 - Slightly harder than hardwood  
@@ -2295,7 +2297,7 @@ Use:
 
 ---
 
-### Silicone Utensils
+#### ⚠️ Silicone Utensils
 
 - Heat-resistant and flexible  
 - Useful for certain cookware  
@@ -2306,7 +2308,7 @@ Use:
 
 ### 🚫 Avoid / Limit These Cutlery
 
-### Plastic Cutting Boards
+#### 🚫 Plastic Cutting Boards
 
 - Shed microplastics into food  
 - Degrade over time  
@@ -2314,14 +2316,14 @@ Use:
 
 ---
 
-### Cheap / Low-Quality Knives
+#### 🚫Cheap / Low-Quality Knives
 
 - Dull quickly → unsafe  
 - Require more force → higher injury risk  
 
 ---
 
-### Painted / Coated Utensils
+#### 🚫 Painted / Coated Utensils
 
 - Can chip or degrade with heat and use  
 
@@ -2354,7 +2356,7 @@ That covers almost everything.
 
 ### 🛒 Recommended Cutlery Brands
 
-### Knives Brands
+#### 🛒 Knives Brands
 
 - Victorinox → <https://www.victorinox.com>  
 - Made In → <https://madeincookware.com>  
@@ -2362,14 +2364,14 @@ That covers almost everything.
 
 ---
 
-### Cutting Boards Brands
+#### 🛒 Cutting Boards Brands
 
 - John Boos → <https://www.johnboos.com>  
 - Sonder LA → <https://sonderla.com>  
 
 ---
 
-### Wooden Utensils Brands
+#### 🛒 Wooden Utensils Brands
 
 - Bambu → <https://www.bambuhome.com>  
 
@@ -2413,9 +2415,9 @@ Tap water may contain:
 
 ---
 
-### ✅ With water filters, use
+### ✅ With Water Filters, Use
 
-### Reverse Osmosis (RO)
+#### ✅ Reverse Osmosis (RO)
 
 - Removes a wide range of contaminants  
 - Highly effective for:
@@ -2430,7 +2432,7 @@ Tap water may contain:
 
 ---
 
-### Gravity Filters (High-Quality Carbon Systems)
+#### ✅ Gravity Filters (High-Quality Carbon Systems)
 
 - Effective for many contaminants  
 - No electricity required  
@@ -2438,7 +2440,7 @@ Tap water may contain:
 
 ---
 
-### Multi-Stage Filtration Systems
+#### ✅ Multi-Stage Filtration Systems
 
 - Combine carbon + other filtration methods  
 - Balance between effectiveness and convenience  
@@ -2447,14 +2449,14 @@ Tap water may contain:
 
 ### ⚖️ Consider These Water Filters
 
-### Remineralization
+#### ⚠️ Remineralization
 
 - Adds minerals back after RO filtration  
 - Can improve taste and balance  
 
 ---
 
-### Under-Sink Systems
+#### ⚠️ Under-Sink Systems
 
 - Cleaner setup (no countertop clutter)  
 - More convenient for daily use  
@@ -2463,21 +2465,21 @@ Tap water may contain:
 
 ### 🚫 Avoid / Limit This Water
 
-### Tap Water (Unfiltered)
+#### 🚫 Tap Water (Unfiltered)
 
 - Variable quality depending on location  
 - May contain multiple contaminants  
 
 ---
 
-### Basic Pitcher Filters (Low-Quality)
+#### 🚫 Basic Pitcher Filters (Low-Quality)
 
 - Limited filtration capability  
 - Often do not remove heavy metals or PFAS effectively  
 
 ---
 
-### Plastic Storage (Post-Filtration)
+#### 🚫 Plastic Storage (Post-Filtration)
 
 - Can reintroduce unwanted compounds  
 - Use glass or stainless steel instead  
@@ -2508,13 +2510,13 @@ That covers most needs.
 
 ### 🛒 Recommended Water Filtration Options
 
-### Countertop / Gravity Brands
+#### 🛒 Countertop / Gravity Brands
 
 - Berkey → <https://www.berkeyfilters.com>  
 
 ---
 
-### Reverse Osmosis Brands
+#### 🛒 Reverse Osmosis Brands
 
 - AquaTru → <https://aquatruwater.com>  
 

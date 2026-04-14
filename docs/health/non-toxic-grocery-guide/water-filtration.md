@@ -28,9 +28,9 @@ Tap water may contain:
 
 ---
 
-## ✅ With water filters, use
+### ✅ With Water Filters, Use
 
-## Reverse Osmosis (RO)
+#### ✅ Reverse Osmosis (RO)
 
 - Removes a wide range of contaminants  
 - Highly effective for:
@@ -45,7 +45,7 @@ Tap water may contain:
 
 ---
 
-## Gravity Filters (High-Quality Carbon Systems)
+#### ✅ Gravity Filters (High-Quality Carbon Systems)
 
 - Effective for many contaminants  
 - No electricity required  
@@ -53,53 +53,53 @@ Tap water may contain:
 
 ---
 
-## Multi-Stage Filtration Systems
+#### ✅ Multi-Stage Filtration Systems
 
 - Combine carbon + other filtration methods  
 - Balance between effectiveness and convenience  
 
 ---
 
-## ⚖️ Consider These Water Filters
+### ⚖️ Consider These Water Filters
 
-## Remineralization
+#### ⚠️ Remineralization
 
 - Adds minerals back after RO filtration  
 - Can improve taste and balance  
 
 ---
 
-## Under-Sink Systems
+## ⚠️ Under-Sink Systems
 
 - Cleaner setup (no countertop clutter)  
 - More convenient for daily use  
 
 ---
 
-## 🚫 Avoid / Limit This Water
+### 🚫 Avoid / Limit This Water
 
-## Unfiltered Tap Water
+#### 🚫 Unfiltered Tap Water
 
 - Variable quality depending on location  
 - May contain multiple contaminants  
 
 ---
 
-## Basic Pitcher Filters (Low-Quality)
+#### 🚫 Basic Pitcher Filters (Low-Quality)
 
 - Limited filtration capability  
 - Often do not remove heavy metals or PFAS effectively  
 
 ---
 
-## Plastic Storage (Post-Filtration)
+#### 🚫 Plastic Storage (Post-Filtration)
 
 - Can reintroduce unwanted compounds  
 - Use glass or stainless steel instead  
 
 ---
 
-## 🧪 Know Your Water
+### 🧪 Know Your Water
 
 If you want to go deeper:
 
@@ -110,7 +110,7 @@ If you want to go deeper:
 
 ---
 
-## 🧭 Water Filtration Minimalist Setup (What You Actually Need)
+### 🧭 Water Filtration Minimalist Setup (What You Actually Need)
 
 A simple, effective setup:
 
@@ -121,21 +121,21 @@ That covers most needs.
 
 ---
 
-## 🛒 Recommended Water Filtration Options
+### 🛒 Recommended Water Filtration Options
 
-## Countertop / Gravity Brands
+#### 🛒 Countertop / Gravity Brands
 
 - Berkey → <https://www.berkeyfilters.com>  
 
 ---
 
-## Reverse Osmosis Brands
+#### 🛒 Reverse Osmosis Brands
 
 - AquaTru → <https://aquatruwater.com>  
 
 ---
 
-## ⚠️ Water Filtration Final Thought
+### ⚠️ Water Filtration Final Thought
 
 Water is not something to ignore.
 

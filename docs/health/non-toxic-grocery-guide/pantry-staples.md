@@ -13,7 +13,7 @@
 
 ---
 
-## ⚠️ Caution With These "Healthy" Sweeteners
+### ⚠️ Caution With These "Healthy" Sweeteners
 
 - Coconut sugar (highly processed)
 - Agave (highly processed, low glycemic but more fructose than sugar)
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚫 Avoid These Artificial Sweeteners
+### 🚫 Avoid These Artificial Sweeteners
 
 Artificial sweeteners can increase risk of heart disease, negatively impact metabolic health and the gut microbiome, and some can cause cancer.
 
@@ -34,7 +34,7 @@ Artificial sweeteners can increase risk of heart disease, negatively impact meta
 
 ---
 
-## 🚫 Avoid These Sugar Alcohols
+### 🚫 Avoid These Sugar Alcohols
 
 Excessive consumption of sugar alcohols can cause bloating, digestive issues, and have a laxative effect:
 
@@ -56,13 +56,13 @@ Quality matters more than quantity.
 
 ---
 
-## 🧠 Core Spices Principle
+### 🧠 Core Spices Principle
 
 > Choose clean, single-ingredient spices with transparent sourcing.
 
 ---
 
-## ✅ For spices, look for
+### ✅ For Spices, Look For
 
 - Organic (reduces pesticide exposure)  
 - Single-ingredient (no fillers or additives)  
@@ -71,7 +71,7 @@ Quality matters more than quantity.
 
 ---
 
-## Whole Spices (Preferred)
+### 🌿 Whole Spices (Preferred)
 
 - Less processed  
 - Longer shelf life  
@@ -87,16 +87,16 @@ Examples:
 
 ---
 
-## High-Quality Sea Salt
+### 🧂 High-Quality Sea Salt
 
 - Minimally processed  
 - No anti-caking agents  
 
 ---
 
-## ⚖️ Consider For Spices
+### ⚖️ Consider For Spices
 
-### Ground Spices
+#### ⚠️ Ground Spices
 
 - More convenient  
 - Slightly more processed  
@@ -105,7 +105,7 @@ Examples:
 
 ---
 
-## Blended Seasonings
+### 🍃 Blended Seasonings
 
 - Can be useful  
 
@@ -116,16 +116,16 @@ Examples:
 
 ---
 
-## 🚫 Avoid / Limit These Spices
+### 🚫 Avoid / Limit These Spices
 
-### Conventional (Non-Organic) Spices
+#### 🚫 Conventional (Non-Organic) Spices
 
 - Can carry pesticide residues  
 - Often lower quality sourcing  
 
 ---
 
-### Spices with Additives
+#### 🚫 Spices with Additives
 
 - Anti-caking agents  
 - Artificial flavors  
@@ -133,7 +133,7 @@ Examples:
 
 ---
 
-### Old / Stale Spices
+#### 🚫 Old / Stale Spices
 
 - Lose potency over time  
 - Can degrade in quality  
@@ -142,7 +142,7 @@ Examples:
 
 ---
 
-## 🧭 Storage Matters with Spices
+### 🧭 Storage Matters with Spices
 
 - Store in glass containers  
 - Keep away from heat and light  
@@ -150,7 +150,7 @@ Examples:
 
 ---
 
-## 🧭 Spices Minimalist Setup (What You Actually Need)
+### 🧭 Spices Minimalist Setup (What You Actually Need)
 
 You don’t need a massive spice rack.
 
@@ -168,7 +168,7 @@ Build from there.
 
 ---
 
-## 🛒 Recommended Spice Brands
+### 🛒 Recommended Spice Brands
 
 - Simply Organic → <https://www.simplyorganic.com>  
   - Organic baseline option  
@@ -180,14 +180,14 @@ Build from there.
 
 ---
 
-## 🛒 Recommend Salt Brands
+### 🛒 Recommend Salt Brands
 
 - Jacobsen Salt Co. → <https://jacobsensalt.com>  
   - Clean, high-quality sea salt  
 
 ---
 
-## ⚠️ Final Spices Thought
+### ⚠️ Final Spices Thought
 
 Spices seem small, but they’re used daily.
 
@@ -207,15 +207,15 @@ The difference comes down to:
 
 ---
 
-## 🧠 Core Vinegar Principle
+### 🧠 Core Vinegar Principle
 
 > Choose traditionally fermented, minimally processed vinegars.
 
 ---
 
-## ✅ With vingeras, look for
+### ✅ With Vinegars, Look For
 
-## Apple Cider Vinegar (ACV)
+#### 🍏 Apple Cider Vinegar (ACV)
 
 ✅ With ACV, look for:
 
@@ -233,7 +233,7 @@ Use for:
 
 ---
 
-## Balsamic Vinegar
+#### ⚫ Balsamic Vinegar
 
 ✅ With balsamic vinegar, look for:
 
@@ -242,7 +242,7 @@ Use for:
 
 ---
 
-## Red / White Wine Vinegar
+#### 🍇 Red / White Wine Vinegar
 
 ✅ With red / white wine vinegar, look for:
 
@@ -251,9 +251,9 @@ Use for:
 
 ---
 
-## ⚖️ Consider With Vinegar
+### ⚖️ Consider With Vinegar
 
-## Filtered / Pasteurized Vinegar
+#### ⚠️ Filtered / Pasteurized Vinegar
 
 - More shelf-stable  
 - Less “alive” than raw versions  
@@ -262,7 +262,7 @@ Use for:
 
 ---
 
-## Flavored Vinegars
+#### ⚠️ Flavored Vinegars
 
 - Can be useful for variety  
 
@@ -273,9 +273,9 @@ Use for:
 
 ---
 
-## 🚫 Avoid / Limit These Vinegars
+### 🚫 Avoid / Limit These Vinegars
 
-## Low-Quality Balsamic
+#### 🚫 Low-Quality Balsamic
 
 Often contains:
 
@@ -287,7 +287,7 @@ Often contains:
 
 ---
 
-## Vinegars with Additives
+### 🚫 Vinegars with Additives
 
 - Artificial flavors  
 - Preservatives  
@@ -295,29 +295,29 @@ Often contains:
 
 ---
 
-## 🧠 How to Evaluate Vinegar
+### 🧠 How to Evaluate Vinegar
 
-### 1. Vinegar Ingredient List
+#### 1. Vinegar Ingredient List
 
 - 1–2 ingredients → ideal  
 - Long list → avoid  
 
 ---
 
-### 2. Vinegar Texture & Taste (Balsamic)
+#### 2. Vinegar Texture & Taste (Balsamic)
 
 - Thick, rich → higher quality  
 - Thin, sharp → likely lower quality  
 
 ---
 
-### 3. Vinegar Label Transparency
+#### 3. Vinegar Label Transparency
 
 - Clear sourcing and process → better signal  
 
 ---
 
-## 🧭 Vinegar Storage Matters
+### 🧭 Vinegar Storage Matters
 
 - Store in glass bottles  
 - Keep sealed and away from heat  
@@ -325,7 +325,7 @@ Often contains:
 
 ---
 
-## 🧭 Vinegar Minimalist Setup (What You Actually Need)
+### 🧭 Vinegar Minimalist Setup (What You Actually Need)
 
 - Apple cider vinegar  
 - One high-quality balsamic  
@@ -335,9 +335,9 @@ That covers most use cases.
 
 ---
 
-## 🛒 Recommended Vinegar Options
+### 🛒 Recommended Vinegar Options
 
-## Apple Cider Vinegar Brands
+### 🍏 Apple Cider Vinegar Brands
 
 - Lucy's → <https://lucysinc.com/>  
   - “With the mother”  
@@ -346,14 +346,14 @@ That covers most use cases.
 
 ---
 
-## Balsamic Vinegar Brands
+### ⚫ Balsamic Vinegar Brands
 
 - California Olive Ranch (Lucini) → <https://www.californiaoliveranch.com>
 - Kirkland Signature (Costco) Organic Balsamic Vinegar of Modena → <https://www.costco.com/>  
 
 ---
 
-## ⚠️ Final Vinegar Thought
+### ⚠️ Final Vinegar Thought
 
 Vinegar should be simple.
 

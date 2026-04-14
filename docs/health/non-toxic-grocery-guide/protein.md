@@ -2,7 +2,7 @@
 
 ## 🥚 Eggs
 
-## Egg Quality Ranking
+### Egg Quality Ranking
 
 👍 Best → 👎 Worst:
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Egg Labels
+### Egg Labels
 
 - **Cage-Free**: Hens are not kept in cages, but can be kept indoors and overcrowded  
 - **Farm Fresh**: All eggs are "fresh." Fresh means not frozen and doesn't mean anything else
@@ -38,7 +38,7 @@
 - Grass-Fed: Animals ate grass for at least part of its life. Does NOT always mean grass-finished
 - Grass-Fed, Grain-Finished: Animals start on grass but are finished on grain
 
-## Beef Quality Ranking
+### Beef Quality Ranking
 
 👍 Best → 👎 Worst:
 
@@ -50,18 +50,18 @@
 
 ## 🐓 Poultry
 
-## ✅ With poultry, look for
+### ✅ With Poultry, Look For
 
 - Pasture-raised  
 
-## ⚠️ With poultry, caution with
+### ⚠️ With Poultry, Caution With
 
 - “Free-range”  
 - “Cage-free”  
 
 ---
 
-## ⚠️ Poultry Label Reality Check
+### ⚠️ Poultry Label Reality Check
 
 - “No hormones” → meaningless for poultry (illegal anyway)  
 - “Antibiotic-free” → more relevant, but still varies  
@@ -71,7 +71,7 @@
 
 ---
 
-## 🛒 High-Quality Meat Sources
+### 🛒 High-Quality Meat Sources
 
 - REP Provisions → <https://repprovisions.com/>  
 
@@ -84,11 +84,11 @@
 
 ## 🐟 Fish
 
-## ✅ With fish, look for
+### ✅ With Fish, Look For
 
 - Wild-caught  
 
-## ⚠️ With fish, caution with
+### ⚠️ With Fish, Caution With
 
 - Farmed fish (variable quality)  
 
@@ -98,7 +98,7 @@
 
 ---
 
-## ⚠️ Mercury Consideration in Fish
+### ⚠️ Mercury Consideration in Fish
 
 Limit high-mercury fish:
 

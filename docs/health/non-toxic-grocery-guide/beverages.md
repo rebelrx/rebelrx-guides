@@ -1,6 +1,6 @@
 # 🥤 Beverages
 
-## 💧 Water
+## 🚰 Water
 
 Water is one of the most important daily inputs and one of the most overlooked.
 
@@ -8,15 +8,15 @@ Quality varies widely depending on source and treatment.
 
 ---
 
-## 🧠 Core Water Principle
+### 🧠 Core Water Principle
 
 > Prioritize clean, filtered water as your default.
 
 ---
 
-## ✅ With water, use
+### ✅ With Water, Use
 
-## Filtered Water (Preferred)
+#### 💧 Filtered Water (Preferred)
 
 - Use a high-quality home filtration system (see Water Filtration section)  
 - Removes common contaminants:
@@ -29,7 +29,7 @@ Quality varies widely depending on source and treatment.
 
 ---
 
-## Spring Water (Glass Bottled Preferred)
+#### 💧 Spring Water (Glass Bottled Preferred)
 
 - Naturally filtered through underground sources  
 - Contains naturally occurring minerals  
@@ -42,9 +42,9 @@ Best option:
 
 ---
 
-## ⚖️ Consider With Water
+### ⚖️ Consider With Water
 
-## Mineral Water
+#### ⚠️ Mineral Water
 
 - Naturally occurring minerals  
 - Can support taste and electrolyte balance  
@@ -53,37 +53,37 @@ Best option:
 
 ---
 
-## Remineralized Water
+#### ⚠️ Remineralized Water
 
 - Often used with reverse osmosis systems  
 - Adds minerals back after filtration  
 
 ---
 
-## 🚫 Avoid / Limit These Waters
+### 🚫 Avoid / Limit These Waters
 
-## Plastic Bottled Water
+#### 🚫 Plastic Bottled Water
 
 - Risk of microplastic exposure  
 - Potential chemical leaching (especially with heat)  
 
 ---
 
-## Unfiltered Tap Water
+#### 🚫 Unfiltered Tap Water
 
 - Variable quality  
 - May contain multiple contaminants  
 
 ---
 
-## “Enhanced” or Flavored Waters
+#### 🚫 “Enhanced” or Flavored Waters
 
 - Added sweeteners or “natural flavors”  
 - Often unnecessary additives  
 
 ---
 
-## 🧠 How to Think About Water
+### 🧠 How to Think About Water
 
 You don’t need perfect water. You need **consistently clean water**.
 
@@ -95,7 +95,7 @@ Focus on:
 
 ---
 
-## 🧭 Water Minimalist Setup (What You Actually Need)
+### 🧭 Water Minimalist Setup (What You Actually Need)
 
 - One primary water source (filtered system)  
 - Optional: glass-bottled spring water  
@@ -104,7 +104,7 @@ That’s enough.
 
 ---
 
-## ⚠️ Final Water Thought
+### ⚠️ Final Water Thought
 
 Water is a foundational input.
 
@@ -118,15 +118,15 @@ Alcohol is not a health food, but if you choose to drink, quality and simplicity
 
 ---
 
-## 🧠 Core Alcohol Principle
+### 🧠 Core Alcohol Principle
 
 > If you drink, choose cleaner options and keep it occasional.
 
 ---
 
-## ✅ Better Alcohol Options
+### ✅ Better Alcohol Options
 
-## Wine (Lower Intervention Preferred)
+#### Wine (Lower Intervention Preferred)
 
 ✅ Look for:
 
@@ -138,7 +138,7 @@ Alcohol is not a health food, but if you choose to drink, quality and simplicity
 
 ---
 
-## Simple Spirits
+#### 🍶 Simple Spirits
 
 Better choices:
 
@@ -150,9 +150,9 @@ Better choices:
 
 ---
 
-## ⚖️ Consider with Alcohol
+### ⚖️ Consider with Alcohol
 
-## Beer
+### 🍺 Beer
 
 - Choose simpler, traditional styles  
 - Organic options when available  
@@ -161,7 +161,7 @@ Better choices:
 
 ---
 
-## Mixers
+### 🍋‍🟩 Mixers
 
 - Use:
   - Soda water  
@@ -174,7 +174,7 @@ Better choices:
 
 ---
 
-## 🚫 Avoid / Limit These Alcohols
+### 🚫 Avoid / Limit These Alcohols
 
 - Highly processed cocktails  
 - Artificially flavored spirits  
@@ -189,13 +189,13 @@ Better choices:
 
 ---
 
-## 🛒 Cleaner Alcohol Options (If You Choose to Drink)
+### 🛒 Cleaner Alcohol Options (If You Choose to Drink)
 
 Focus on simplicity, transparency, and minimal additives.
 
 ---
 
-## 🥃 Tequila (100% Agave Only)
+#### 🥃 Tequila (100% Agave Only)
 
 ✅ Look for:
 
@@ -218,7 +218,7 @@ Better options:
 
 ---
 
-## 🍸 Vodka (Simple, Minimal Ingredients)
+#### 🍸 Vodka (Simple, Minimal Ingredients)
 
 ✅ Look for:
 
@@ -237,7 +237,7 @@ Better options:
 
 ---
 
-## 🍷 Wine (Lower-Intervention Preferred)
+#### 🍷 Wine (Lower-Intervention Preferred)
 
 ✅ Look for:
 
@@ -260,7 +260,7 @@ Better options:
 
 ---
 
-## 🧠 How to Think About Alcohol
+### 🧠 How to Think About Alcohol
 
 The biggest issue with alcohol is not just the alcohol, it’s:
 
@@ -270,7 +270,7 @@ The biggest issue with alcohol is not just the alcohol, it’s:
 
 ---
 
-## 🧭 Alcohol Practical Approach
+### 🧭 Alcohol Practical Approach
 
 - Keep it occasional  
 - Keep it simple  
@@ -278,7 +278,7 @@ The biggest issue with alcohol is not just the alcohol, it’s:
 
 ---
 
-## ⚠️ Final Alcohol Thought
+### ⚠️ Final Alcohol Thought
 
 > Alcohol is not beneficial—it’s a tradeoff.
 
@@ -302,13 +302,13 @@ The difference comes down to:
 
 ---
 
-## 🧠 Coffee Core Principle
+### 🧠 Coffee Core Principle
 
 > Choose clean, well-sourced coffee, not just convenient coffee.
 
 ---
 
-## ✅ With coffee, look for
+### ✅ With Coffee, Look For
 
 - Organic (reduces pesticide exposure)  
 - Mold-tested / mycotoxin-tested  
@@ -317,7 +317,7 @@ The difference comes down to:
 
 ---
 
-## Coffee Bean Type
+### 🫘 Coffee Bean Type
 
 - Whole bean (preferred)  
 - Grind fresh before brewing  
@@ -326,7 +326,7 @@ The difference comes down to:
 
 ---
 
-## Coffee Roast Level
+### 🫘 Coffee Roast Level
 
 - Light to medium roast → generally retains more beneficial compounds  
 - Dark roast → lower acidity, but more processing  
@@ -335,39 +335,39 @@ The difference comes down to:
 
 ---
 
-## ⚖️ Consider These Coffees
+### ⚖️ Consider These Coffees
 
-## Single-Origin Coffee
+#### 🫘 Single-Origin Coffee
 
 - More transparency in sourcing  
 - Often higher quality  
 
 ---
 
-## Shade-Grown Coffee
+### 🫘 Shade-Grown Coffee
 
 - More natural growing conditions  
 - Often associated with better farming practices  
 
 ---
 
-## Decaf (If Needed)
+### 🫘 Decaf (If Needed)
 
 - Choose water-processed (Swiss Water Process)  
 - Avoid chemical solvent decaffeination  
 
 ---
 
-## 🚫 Avoid / Limit These Coffees
+### 🚫 Avoid / Limit These Coffees
 
-## Conventional Coffee
+#### 🚫 Conventional Coffee
 
 - One of the most pesticide-heavy crops  
 - Often lower quality sourcing  
 
 ---
 
-## Mold / Mycotoxin Exposure
+#### 🚫 Mold / Mycotoxin Exposure
 
 - Poor storage and processing can lead to contamination  
 
@@ -375,7 +375,7 @@ The difference comes down to:
 
 ---
 
-## Coffee Additives
+#### 🚫 Coffee Additives
 
 - Artificial creamers  
 - Flavored syrups  
@@ -385,7 +385,7 @@ The difference comes down to:
 
 ---
 
-## 🧭 Coffee Preparation Matters
+### 🧭 Coffee Preparation Matters
 
 Even high-quality beans can be compromised by poor prep:
 
@@ -395,7 +395,7 @@ Even high-quality beans can be compromised by poor prep:
 
 ---
 
-## 🧭 Coffee Minimalist Setup (What You Actually Need)
+### 🧭 Coffee Minimalist Setup (What You Actually Need)
 
 Keep it simple:
 
@@ -405,13 +405,13 @@ Keep it simple:
 
 ---
 
-## 🛒 Coffee Recommended Brands
+### 🛒 Coffee Recommended Brands
 
 Focus on clean sourcing, transparency, and minimal contamination.
 
 ---
 
-## 🔝 Higher-Standard Coffee (Clean / Non-Toxic Focus)
+#### 🔝 Higher-Standard Coffee (Clean / Non-Toxic Focus)
 
 - Purity Coffee → <https://puritycoffee.com>  
   - Mold + toxin tested  
@@ -425,7 +425,7 @@ Focus on clean sourcing, transparency, and minimal contamination.
 
 ---
 
-## ✅ Solid Mainstream Coffee Options (If Needed)
+#### ✅ Solid Mainstream Coffee Options (If Needed)
 
 - Illy → <https://www.illy.com>  
   - Consistent quality  
@@ -439,7 +439,7 @@ Focus on clean sourcing, transparency, and minimal contamination.
 
 ---
 
-## ⚠️ How to Think About Coffee
+### ⚠️ How to Think About Coffee
 
 There are tiers:
 
@@ -451,7 +451,7 @@ There are tiers:
 
 ---
 
-## 🧠 Practical Coffee Approach
+### 🧠 Practical Coffee Approach
 
 - Default to a clean, tested brand at home  
 - Use mainstream options when out or traveling  
@@ -460,7 +460,7 @@ Consistency matters more than perfection.
 
 ---
 
-## ⚠️ Coffee Final Thought
+### ⚠️ Coffee Final Thought
 
 Coffee itself is not the problem.
 
@@ -482,13 +482,13 @@ Quality depends on:
 
 ---
 
-## 🧠 Tea Core Principle
+### 🧠 Tea Core Principle
 
 > Choose clean, minimally processed tea—ideally in loose-leaf form.
 
 ---
 
-## ✅ With tea, look for
+### ✅ With Tea, Look For
 
 - Organic (reduces pesticide exposure)  
 - Whole leaf or loose-leaf  
@@ -497,7 +497,7 @@ Quality depends on:
 
 ---
 
-## Tea Types
+### 🫖 Tea Types
 
 All can be part of a clean routine:
 
@@ -507,7 +507,7 @@ All can be part of a clean routine:
 
 ---
 
-## Loose Leaf Tea (Preferred)
+#### 🍃 Loose Leaf Tea (Preferred)
 
 - Higher quality  
 - Less processing  
@@ -517,9 +517,9 @@ All can be part of a clean routine:
 
 ---
 
-## ⚖️ Consider Teas
+### ⚖️ Consider Teas
 
-## Tea Bags (Higher Quality Only)
+#### ⚠️ Tea Bags (Higher Quality Only)
 
 - Convenient, but varies widely in quality  
 
@@ -530,7 +530,7 @@ All can be part of a clean routine:
 
 ---
 
-## Herbal / Functional Teas
+#### 🌺 Herbal / Functional Teas
 
 - Can support digestion, sleep, or stress  
 
@@ -538,16 +538,16 @@ All can be part of a clean routine:
 
 ---
 
-## 🚫 Avoid / Limit These Teas
+### 🚫 Avoid / Limit These Teas
 
-## Conventional (Non-Organic) Tea
+#### 🚫 Conventional (Non-Organic) Tea
 
 - Tea leaves can carry pesticide residues  
 - Especially important since leaves are directly infused  
 
 ---
 
-## Low-Quality Tea Bags
+#### 🚫 Low-Quality Tea Bags
 
 - May contain:
   - Bleached paper  
@@ -556,7 +556,7 @@ All can be part of a clean routine:
 
 ---
 
-## Flavored Teas
+#### 🚫 Flavored Teas
 
 - Often contain:
   - “Natural flavors”  
@@ -564,7 +564,7 @@ All can be part of a clean routine:
 
 ---
 
-## 🧭 Tea Preparation Matters
+### 🧭 Tea Preparation Matters
 
 - Use filtered water (see Water Filtration section)  
 - Avoid plastic kettles or components exposed to heat  
@@ -572,7 +572,7 @@ All can be part of a clean routine:
 
 ---
 
-## 🧭 Tea Minimalist Setup (What You Actually Need)
+### 🧭 Tea Minimalist Setup (What You Actually Need)
 
 Simple setup:
 
@@ -582,13 +582,13 @@ Simple setup:
 
 ---
 
-## 🛒 Tea Recommended Brands
+### 🛒 Tea Recommended Brands
 
 Focus on organic sourcing, minimal processing, and simple ingredients.
 
 ---
 
-## 🌿 Baseline Tea (Accessible, Reliable)
+#### 🌿 Baseline Tea (Accessible, Reliable)
 
 - Traditional Medicinals → <https://traditionalmedicinals.com>  
   - Organic herbal blends  
@@ -602,7 +602,7 @@ Focus on organic sourcing, minimal processing, and simple ingredients.
 
 ---
 
-## 🍃 Higher-Quality Tea (Loose Leaf / Cleaner Sourcing)
+#### 🍃 Higher-Quality Tea (Loose Leaf / Cleaner Sourcing)
 
 - Rishi Tea → <https://rishi-tea.com>  
   - Organic, direct trade sourcing  
@@ -621,7 +621,7 @@ Focus on organic sourcing, minimal processing, and simple ingredients.
 
 ---
 
-## 🍵 Premium / Specialty Tea (Optional)
+#### 🍵 Premium / Specialty Tea (Optional)
 
 - Kettl → <https://kettl.co>  
   - High-quality Japanese teas  
@@ -633,7 +633,7 @@ Focus on organic sourcing, minimal processing, and simple ingredients.
 
 ---
 
-## 🧠 How to Think About Tea
+### 🧠 How to Think About Tea
 
 There are tiers:
 
@@ -645,7 +645,7 @@ There are tiers:
 
 ---
 
-## 🧭 Practical Tea Approach
+### 🧭 Practical Tea Approach
 
 - Keep 1–2 staple teas (daily use)  
 - Add specialty teas occasionally  
@@ -654,7 +654,7 @@ You don’t need a large collection.
 
 ---
 
-## ⚠️ Tea Final Thought
+### ⚠️ Tea Final Thought
 
 Tea is often viewed as inherently “healthy.”
 

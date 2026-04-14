@@ -1,4 +1,4 @@
-# Non-Toxic Grocery Guide
+# 🌱 Non-Toxic Grocery Guide
 
 Modern food systems are not optimized for human health. They are optimized for:
 
@@ -6,7 +6,7 @@ Modern food systems are not optimized for human health. They are optimized for:
 - Cost
 - Convenience
 
-## What This Guide Is
+## 📖 What This Guide Is
 
 A practical, real-world framework focused on:
 

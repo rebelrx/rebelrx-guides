@@ -2,7 +2,7 @@
 
 ## 🫙 Containers
 
-## ✅ With storage containers, look for
+### ✅ With Storage Containers, Look For
 
 - Glass: Durable, reusable, and non-toxic. Can store liquids or solids
 - Stainless steel: Sturdy, rust-resistant, and easy to clean
@@ -10,13 +10,13 @@
 
 ---
 
-## ⚠️ With storage containers, consider
+### ⚠️ With Storage Containers, Caution With
 
 - Silicone: Food-grade are lightweight, collapsible, easy to store, and reusable. But, does retain odors
 
 ---
 
-## 🚫With storage containers, avoid
+### 🚫 With Storage Containers, Avoid
 
 - Plastic:
   - Can leach chemicals into food (especially with heat)
@@ -24,19 +24,19 @@
 
 ---
 
-## Storage Options
+### 🍱 Storage Options
 
-## Glass storage containers
+#### ✅ Glass storage containers
 
 - Pyrex (glass) → <https://pyrexhome.com/collections/glass-food-storage>
 - Ball Mason Jars → <https://www.ballmasonjars.com/>
 - Weck jars → <https://weckjars.com>
 
-## Stainless Steel storage containers
+#### ✅ Stainless Steel storage containers
 
 - Bambu → <https://www.bambuhome.com/>
 
-## Silicone bags
+#### ✅ Silicone bags
 
 - Stasher → <https://www.stasherbag.com/>
 
@@ -50,9 +50,9 @@ Heat + materials = potential chemical exposure
 
 ---
 
-## ✅ With cookware, look for
+### ✅ With Cookware, Look For
 
-## Stainless Steel cookware
+#### ✅ Stainless Steel Cookware
 
 - Durable, non-reactive, and versatile  
 - Safe for most cooking methods  
@@ -65,7 +65,7 @@ Best for:
 
 ---
 
-## Cast Iron cookware
+#### ✅ Cast Iron Cookware
 
 - Extremely durable and long-lasting  
 - Naturally non-stick when seasoned  
@@ -78,7 +78,7 @@ Best for:
 
 ---
 
-## Carbon Steelc cookware
+#### ✅ Carbon Steel Cookware
 
 - Similar to cast iron, but lighter  
 - Naturally non-stick with seasoning  
@@ -90,7 +90,7 @@ Best for:
 
 ---
 
-## Ceramic cookware (High-Quality, True Ceramic)
+#### ✅ Ceramic Cookware (High-Quality, True Ceramic)
 
 - Non-reactive and heat-resistant  
 - Good for baking and slow cooking  
@@ -101,7 +101,7 @@ Best for:
 
 ---
 
-## Titanium / Advanced Alloys cookware
+#### ✅ Titanium / Advanced Alloys Cookware
 
 - Non-reactive and highly durable  
 - Often used in premium cookware  
@@ -110,7 +110,7 @@ Best for:
 
 ---
 
-## Enameled Cast Iron cookware
+#### ✅ Enameled Cast Iron Cookware
 
 - Cast iron core with protective coating  
 - Easier maintenance (no seasoning required)  
@@ -121,9 +121,9 @@ Best for:
 
 ---
 
-## 🚫 Avoid / Limit These Cookware
+### 🚫 Avoid / Limit These Cookware
 
-## Non-Stick (Teflon / PFAS Coatings)
+#### 🚫 Non-Stick (Teflon / PFAS Coatings)
 
 - Can release harmful compounds when overheated  
 - Degrades over time (especially when scratched)  
@@ -132,14 +132,14 @@ Best for:
 
 ---
 
-## Cheap Aluminum
+#### 🚫 Cheap Aluminum
 
 - Can leach into food (especially acidic foods)  
 - Often used in low-quality cookware  
 
 ---
 
-## Damaged Cookware
+#### 🚫 Damaged Cookware
 
 - Scratched non-stick  
 - Chipped coatings  
@@ -148,7 +148,7 @@ Best for:
 
 ---
 
-## 🔥 Cooking Practices Matter Too
+### 🔥 Cooking Practices Matter Too
 
 Even “safe” cookware can become problematic with poor habits:
 
@@ -158,7 +158,7 @@ Even “safe” cookware can become problematic with poor habits:
 
 ---
 
-## 🧭 Minimalist Setup (What You Actually Need)
+### 🧭 Minimalist Setup (What You Actually Need)
 
 You don’t need a full kitchen arsenal.
 
@@ -172,42 +172,42 @@ That covers 90% of cooking.
 
 ---
 
-## 🛒 Recommended Cookware Brands
+### 🛒 Recommended Cookware Brands
 
-## Stainless Steel Brands
+#### 🛒 Stainless Steel Brands
 
 - Made In → <https://madeincookware.com>  
 - All-Clad → <https://www.all-clad.com>  
 
 ---
 
-## Cast Iron Brands
+#### 🛒 Cast Iron Brands
 
 - Lodge → <https://www.lodgecastiron.com/>  
 
 ---
 
-## Carbon Steel Brands
+#### 🛒 Carbon Steel Brands
 
 - Made In → <https://madeincookware.com>  
 - De Buyer → <https://www.debuyer.com>  
 
 ---
 
-## Titanium / Premium Brands
+#### 🛒 Titanium / Premium Brands
 
 - Hestan → <https://hestanculinary.com>  
 
 ---
 
-## Enameled Cast Iron Brands
+#### 🛒 Enameled Cast Iron Brands
 
 - Le Creuset → <https://www.lecreuset.com>  
 - Staub → <https://www.zwilling.com/us/staub>  
 
 ---
 
-## ⚠️ Cookware Final Thought
+### ⚠️ Cookware Final Thought
 
 Cookware is a one-time decision that impacts daily exposure.
 
@@ -223,9 +223,9 @@ Surfaces + blades = direct contact with your food.
 
 ---
 
-## ✅ With cutlery, look for
+### ✅ With Cutlery, Look For
 
-## Knives (High-Quality Steel)
+#### ✅ Knives (High-Quality Steel)
 
 - Stainless steel or high-carbon steel  
 - Durable, stable, and non-toxic  
@@ -238,7 +238,7 @@ Surfaces + blades = direct contact with your food.
 
 ---
 
-## Cutting Boards (Wood Preferred)
+#### ✅ Cutting Boards (Wood Preferred)
 
 - Natural, non-toxic surface  
 - Gentle on knives  
@@ -250,7 +250,7 @@ Best options:
 
 ---
 
-## Utensils
+#### ✅ Utensils
 
 Use:
 
@@ -260,9 +260,9 @@ Use:
 
 ---
 
-## ⚖️ Consider These Cutlery
+### ⚖️ Consider These Cutlery
 
-## Bamboo Cutting Boards
+### ⚠️ Bamboo Cutting Boards
 
 - Lightweight and sustainable  
 - Slightly harder than hardwood  
@@ -273,7 +273,7 @@ Use:
 
 ---
 
-## Silicone Utensils
+#### ⚠️ Silicone Utensils
 
 - Heat-resistant and flexible  
 - Useful for certain cookware  
@@ -282,9 +282,9 @@ Use:
 
 ---
 
-## 🚫 Avoid / Limit These Cutlery
+### 🚫 Avoid / Limit These Cutlery
 
-## Plastic Cutting Boards
+#### 🚫 Plastic Cutting Boards
 
 - Shed microplastics into food  
 - Degrade over time  
@@ -292,20 +292,20 @@ Use:
 
 ---
 
-## Cheap / Low-Quality Knives
+#### 🚫 Cheap / Low-Quality Knives
 
 - Dull quickly → unsafe  
 - Require more force → higher injury risk  
 
 ---
 
-## Painted / Coated Utensils
+#### 🚫 Painted / Coated Utensils
 
 - Can chip or degrade with heat and use  
 
 ---
 
-## 🔥 Cutlery Maintenance Matters
+### 🔥 Cutlery Maintenance Matters
 
 Even the best tools need proper care:
 
@@ -315,7 +315,7 @@ Even the best tools need proper care:
 
 ---
 
-## 🧭 Cutlery Minimalist Setup (What You Actually Need)
+### 🧭 Cutlery Minimalist Setup (What You Actually Need)
 
 You do not need a complex kitchen.
 
@@ -330,9 +330,9 @@ That covers almost everything.
 
 ---
 
-## 🛒 Recommended Cutlery Brands
+### 🛒 Recommended Cutlery Brands
 
-## Knives Brands
+#### 🛒 Knives Brands
 
 - Victorinox → <https://www.victorinox.com>  
 - Made In → <https://madeincookware.com>  
@@ -340,20 +340,20 @@ That covers almost everything.
 
 ---
 
-## Cutting Boards Brands
+#### 🛒 Cutting Boards Brands
 
 - John Boos → <https://www.johnboos.com>  
 - Sonder LA → <https://sonderla.com>  
 
 ---
 
-## Wooden Utensils Brands
+#### 🛒 Wooden Utensils Brands
 
 - Bambu → <https://www.bambuhome.com>  
 
 ---
 
-## ⚠️ Cutlery Final Thought
+### ⚠️ Cutlery Final Thought
 
 Cutlery doesn’t need to be complicated.
 

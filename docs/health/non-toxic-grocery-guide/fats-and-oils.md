@@ -2,7 +2,7 @@
 
 ## Cooking Oils
 
-## ✅ With cooking oils, look for
+### ✅ With Cooking Oils, Look For
 
 - Grass fed **butter**
 - Grass fed **ghee**
@@ -10,14 +10,16 @@
 - Extra virgin olive oil (authentic)
 - Extra virgin avocado oil (authentic)
 
-## ⚠️ With cooking oils, caution with
+### ⚠️ With Cooking Oils, Caution With
 
 - Coconut oil (due to high saturated fat content)
 - **Red** palm oil (minimally processed, but high in saturated fats)
 - Flaxseed oil (only cold use)
 - Sesame oil (fine in small amounts, not high heat)
 
-## 🚫 With cooking oils, avoid (especially for high heat cooking)
+### 🚫 With Cooking Oils, Avoid
+
+Avoid especially for high heat cooking:
 
 - Canola oil
 - Corn oil
@@ -36,18 +38,18 @@
 
 ## 🫒 Olive Oil
 
-## ✅ With olive oils, look for
+### ✅ With Olive Oil, Look For
 
 - Date and location for the harvest; check if you can scan a QR code to trace the production chain
 - Look up for seals from a third-party certifier, tester or consortium, like DOP or IGP
 
-## ⚠️ With olive oils, caution with
+### ⚠️ With Olive Oil, Caution With
 
 - Domestic (US) is typically safe from adulteration, but may not be 100% extra virgin
 - Imported (EU) may be adulterated with other low-quality oils or not 100% extra virgin
 - Greek olive oils from small farms tend to be of highest quality, while Italian or Spanish may be more difficult to ascertain
 
-## 🚫 With olive oil, avoid
+### 🚫 With Olive Oil, Avoid
 
 - Mass-produced imported olive oils (higher risk of adulteration)
 - Products without harvest date or traceability
@@ -62,7 +64,7 @@ Olive oil fraud is rampant. It used to be isolated to Italy, but now most of the
 
 ---
 
-## Olive Oil Options
+### 🫒 Olive Oil Options
 
 - Ellora Farms → <https://ellorafarms.com/>
 - Graza → <https://www.graza.co>
@@ -72,7 +74,7 @@ Olive oil fraud is rampant. It used to be isolated to Italy, but now most of the
 
 ## 🧈 Butter / Ghee
 
-## ✅ With butter, look for
+### ✅ With Butter, Look For
 
 - High butterfat content (>80% butterfat)
 - Pasture raised + 100% Grass fed
@@ -80,7 +82,7 @@ Olive oil fraud is rampant. It used to be isolated to Italy, but now most of the
 - Additive free
 - PFAS-free
 
-## 🚫 With butter, avoid
+### 🚫 With Butter, Avoid
 
 - Low-quality butter with added flavoring or coloring  
 - Grain-fed, conventional sources
@@ -91,13 +93,13 @@ Olive oil fraud is rampant. It used to be isolated to Italy, but now most of the
 
 ---
 
-## 🧈 Salted vs Unsalted Butter
+### 🧈 Salted vs Unsalted Butter
 
 Both can be fine, but the choice depends on use and quality.
 
 ---
 
-## 🧂 Salted Butter
+### 🧂 Salted Butter
 
 Pros:
 
@@ -112,7 +114,7 @@ Considerations:
 
 ---
 
-## ⚪ Unsalted Butter
+### ⚪ Unsalted Butter
 
 Pros:
 
@@ -122,7 +124,7 @@ Pros:
 
 ---
 
-## 🧠 What Actually Matters Most for Butter Types
+### 🧠 What Actually Matters Most for Butter Types
 
 > Choose high-quality butter first. Salted vs unsalted is secondary.
 
@@ -134,7 +136,7 @@ Prioritize:
 
 ---
 
-## 🧭 Practical Approach to Butter
+### 🧭 Practical Approach to Butter
 
 - Use salted butter for everyday eating  
 - Use unsalted butter when cooking or baking  
@@ -143,7 +145,7 @@ Prioritize:
 
 ---
 
-## Butter Options
+### 🧈 Butter Options
 
 - Organic Valley → <https://www.organicvalley.coop/>
 - Anchor → <https://www.anchordairy.com/>
@@ -152,14 +154,14 @@ Prioritize:
 
 ---
 
-## Ghee Options
+### 🧈 Ghee Options
 
 - Carrington Farms → <https://carringtonfarms.com/>  
 - 4th & Heart → <https://fourthandheart.com/>
 
 ---
 
-## 🫒 Oils for Finishing (Not Cooking)
+## 🫒 Oils For Finishing (Not Cooking)
 
 Not all oils should be used the same way.
 
@@ -167,15 +169,15 @@ Some oils are best used **raw or low-heat only** to preserve quality and avoid d
 
 ---
 
-## 🧠 Core Finishing Oil Principle
+### 🧠 Core Finishing Oil Principle
 
 > Use delicate oils raw. Heat destroys their benefits and can create harmful byproducts.
 
 ---
 
-## ✅ For finishing oils, look for
+### ✅ For Finishing Oils, Look For
 
-### Extra Virgin Olive Oil (EVOO)
+#### 🫒 Extra Virgin Olive Oil (EVOO)
 
 - Rich in antioxidants and polyphenols  
 - Minimally processed  
@@ -189,7 +191,7 @@ Use for:
 
 ---
 
-## Optional: Specialty Oils (Small Batch)
+#### ⚠️ Optional: Specialty Oils (Small Batch)
 
 Examples:
 
@@ -200,9 +202,9 @@ Examples:
 
 ---
 
-## ⚖️ Consider These Finishing Oils
+### ⚖️ Consider These Finishing Oils
 
-### Avocado Oil (High Quality Only)
+#### Avocado Oil (High Quality Only)
 
 - More heat-stable than olive oil  
 - Neutral flavor  
@@ -211,9 +213,9 @@ Examples:
 
 ---
 
-## 🚫 Avoid / Limit These Finishing Oils
+### 🚫 Avoid / Limit These Finishing Oils
 
-### Seed Oils (Especially for Finishing)
+#### 🛢️Seed Oils (Especially for Finishing)
 
 - Canola  
 - Soybean  
@@ -225,7 +227,7 @@ Examples:
 
 ---
 
-### Low-Quality Olive Oil
+#### 🛢️ Low-Quality Olive Oil
 
 - Adulterated or diluted products are common  
 - Often mislabeled as “extra virgin”  
@@ -234,7 +236,7 @@ Examples:
 
 ---
 
-## 🧠 How to Choose Olive Oil
+### 🧠 How to Choose Olive Oil
 
 Look for:
 
@@ -245,7 +247,7 @@ Look for:
 
 ---
 
-## 🧭 Finishing Oil Storage Matters
+### 🧭 Finishing Oil Storage Matters
 
 - Keep in dark glass bottles  
 - Store away from heat and light  
@@ -253,7 +255,7 @@ Look for:
 
 ---
 
-## 🧭 Finishing Oil Minimalist Setup (What You Actually Need)
+### 🧭 Finishing Oil Minimalist Setup (What You Actually Need)
 
 - 1 high-quality olive oil  
 - Optional: 1 specialty oil  
@@ -262,13 +264,13 @@ That’s enough.
 
 ---
 
-## 🛒 Recommended Finishing Oil Brands
+### 🛒 Recommended Finishing Oil Brands
 
 Focus on quality, freshness, and transparency, not quantity.
 
 ---
 
-## 🫒 EVOO Options (Primary)
+#### 🫒 EVOO Options (Primary)
 
 - Ellora Farms → <https://ellorafarms.com/>  
   - Single-origin (Greece)  
@@ -285,7 +287,7 @@ Focus on quality, freshness, and transparency, not quantity.
 
 ---
 
-## 🫒 Premium / Small Batch EVOO Options (Optional Upgrade)
+#### 🫒 Premium / Small Batch EVOO Options (Optional Upgrade)
 
 - Kosterina → <https://www.kosterina.com>  
   - High-polyphenol Greek olive oil  
@@ -295,14 +297,14 @@ Focus on quality, freshness, and transparency, not quantity.
 
 ---
 
-## 🥑 Avocado Oil (If Using as Finishing)
+#### 🥑 Avocado Oil (If Using as Finishing)
 
 - Chosen Foods → <https://chosenfoods.com>  
   - One of the more consistently verified options  
 
 ---
 
-## ⚠️ Final Finishing Oil Thought
+### ⚠️ Final Finishing Oil Thought
 
 Oils are highly sensitive to heat, light, and processing.
 
