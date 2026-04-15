@@ -33,5 +33,6 @@ repos:
         additional_dependencies:
           - mkdocs
           - mkdocs-material
+          - mkdocs-static-i18n
         pass_filenames: false
         stages: [pre-push]
