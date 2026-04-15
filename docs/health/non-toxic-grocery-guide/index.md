@@ -23,7 +23,3 @@ A practical framework for buying better food, reducing toxic exposure, and keepi
 
 - [Kitchen & Storage](kitchen-and-storage.md)
 - [Water Filtration](water-filtration.md)
-
-## Practical Application
-
-- [Budget Strategy](budget-strategy.md)

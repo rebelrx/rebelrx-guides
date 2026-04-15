@@ -14,3 +14,6 @@ MD036: false
 
 # Don't require language on every code block
 MD040: false
+
+# Allow duplicate headings (needed for structured guides / translations)
+MD024: false
