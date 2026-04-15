@@ -32,7 +32,7 @@ They often fall short in:
 If you're new, follow this path:
 
 1. 👉 **Non-Toxic Grocery Guide**  
-   Build a clean nutritional foundation (highest ROI)
+   Build a clean nutritional foundation
 
 2. 👉 **Medical Resources**  
    Find trustworthy supplements and platforms

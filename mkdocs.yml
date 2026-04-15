@@ -79,6 +79,8 @@ nav:
       - RebelRx Setup: privacy/my-setup.md
   - Health:
       - Overview: health/index.md
+      - Wake Up: health/wake-up.md
+      - What You Can Do: health/what-you-can-do.md
       - Non-Toxic Grocery Guide:
           - Overview: health/non-toxic-grocery-guide/index.md
           - Quick Start: health/non-toxic-grocery-guide/quick-start.md

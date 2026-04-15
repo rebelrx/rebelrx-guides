@@ -1,27 +1,76 @@
 # RebelRx Docs
 
-Welcome to RebelRx Docs, a free resource and in-depth information center for practical Linux guides, self-hosting, privacy, and evidence-based health education.
+Practical guides for building sovereign systems, protecting your privacy, and taking control of your health.
 
-This site is a collection of technical walkthroughs, migration guides, and reference pages to help you reduce your dependence on privacy invasive surveillance tech, learn how to master your own tools, sharpen your mental clarity, and make better choices.
+---
 
-These guides were written by me through deep research, industry experience, many sleepless nights, and trial and error.
+## ⚠️ Core Principle
 
-I am a medical professional (Doctor of Pharmacy and Registered Pharmacist) with years in the pharmaceutical industry. Having been a self-taught tech hobbyist, I have a passion for sharing knowledge as a student of life. And, I hope I can help you on your journey of self-hosting and taking back your privacy and health.
+> If you don’t control your tools, your data, and your inputs — someone else does.
 
-## Explore RebelRx Docs
+RebelRx Docs exists to help you take that control back.
 
-- [Linux](linux/index.md)
-- [Homelab](homelab/index.md)
-- [Privacy](privacy/index.md)
-- [Health](health/index.md)
+---
 
-## Featured Guides
+## 🧭 What This Site Covers
 
-- [Artix Desktop Manual Install Guide](linux/artix-kde-openrc-install.md)
-- [Devuan Server Install Guide](linux/devuan-server-install.md)
-- [Privacy-Focused and Self-hosted App Recommendations](privacy/app-recommendations.md)
-- [Non-Toxic Grocery Guide](health/non-toxic-grocery-guide/full-guide.md)
+RebelRx Docs provides a curated collection of:
 
-## Connect with RebelRx
+- **Linux Guides** → Clean, controllable systems for desktop and server
+- **Homelab** → Self-hosted infrastructure that you own
+- **Privacy** → Reducing dependence on surveillance-based platforms  
+- **Health** → Evidence-aware, root-cause focused education  
 
-Have a request for a particular topic? Feedback, suggestions, or questions? Please reach out at [nmoayer@rebelrx.com](mailto:nmoayer@rebelrx.com).
+---
+
+## 👤 About
+
+These guides were built through:
+
+- Deep research  
+- Industry experience  
+- Trial, error, and iteration  
+
+I am a **Doctor of Pharmacy (PharmD) and Registered Pharmacist (RPh)** with years in the pharmaceutical industry, combined with a self-taught background in Linux, self-hosting, and privacy-focused systems.
+
+RebelRx Docs sits at the intersection of:
+
+- Health  
+- Technology  
+- Independent thinking  
+
+---
+
+## 📂 Explore RebelRx Docs
+
+- [Linux](linux/index.md)  
+- [Homelab](homelab/index.md)  
+- [Privacy](privacy/index.md)  
+- [Health](health/index.md)  
+
+---
+
+## ⭐ Featured Guides
+
+- [Artix Linux Desktop Manual Install Guide](linux/artix-kde-openrc-install.md)  
+- [Devuan Linux Server Install Guide](linux/devuan-server-install.md)  
+- [Privacy-Focused and Self-hosted App Recommendations](privacy/app-recommendations.md)  
+- [Non-Toxic Grocery Guide](health/non-toxic-grocery-guide/full-guide.md)  
+
+---
+
+## 🧠 Final Thought
+
+Modern systems are optimized for scale, control, and data extraction.
+
+Let's take back our:
+
+> Independence, clarity, and ownership.
+
+---
+
+## 📬 Connect
+
+Have a request, feedback, or a topic you want covered?
+
+Reach out: [nmoayer@rebelrx.com](mailto:nmoayer@rebelrx.com)
