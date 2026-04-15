@@ -1,34 +1,126 @@
-# Linux
+# 🐧 Linux
 
-Guides for building clean, stable Linux setups for desktops, laptops, and servers.
+Guides for building clean, stable, and sovereign Linux systems across desktops, laptops, and servers.
 
-This section focuses on practical installs, post-install configuration, and troubleshooting for light-weight Linux systems that DO NOT rely on systemd or any dystopic age/ID-verification infrastructure.
+This section focuses on:
 
-A full list of Linux distributions without systemd: [nosystemd.org](https://nosystemd.org/)
+- Practical installs  
+- Post-install configuration  
+- Real-world troubleshooting  
+- Systems that maximize **user control and independence**  
 
-## Why No systemd?
+---
 
-Unfortunately, we are at the precipice of what most dysopian movies and stories warned about where our operating systems and core technological infrastructure will be turned into a surviellance/control system relying on ID-verification and social credit systems.
+## 🧭 What You'll Find Here
 
-The entry point (beyond what is already established) will be the forced age/ID verification backbones embedded in the operating systems of all our electronic devices, including our desktop and mobile devices.
+- **Install Guides** → Step-by-step setups for curated distributions  
+- **Post-Install Configuration** → Hardening, usability, performance  
+- **Troubleshooting** → Real-world fixes  
+- **System Philosophy** → How to think about Linux correctly  
 
-Most notably, all major operating systems including Microsoft Windows, Apple macOS, Apple iOS, and Google Android have already incorporated these ID-verification systems into their operating systems.
+---
 
-Linux, with it's open-source philosophy, was thought to be an alternative to these systems. However, that is now no longer true.
+## ⚠️ Core Principle
 
-All operating systems require a primary initialization system (known as "init" in modern UNIX-based systems) which is the first process to boot after the system kernel is loaded into memory and is responsible for starting and managing core system services.
+> Your operating system should serve **you** — not external systems, platforms, or identity frameworks.
 
-There are various types of init systems across different operating systems. Most modern Linux distributions now deploy an init known as "systemd," which for all of its issues, has already had its codebase updated by various bad actors in the Linux community to include age verification.
+---
 
-The only Linux distributions potentially left that would not be infused with age verification architecture, would be those that do not employ a systemd-based init.
+## 🚫 Why Avoid systemd
 
-I focus on 2 well known distributions without systemd that are forks of 2 of the most popular distros - Artix Linux, a non-systemd fork of Arch Linux, and Devuan, a non-systemd fork of Debian Linux.
+Modern Linux distributions have largely standardized around **systemd** as their init system.
 
-## Guides
+RebelRx explicitly avoids systemd.
 
-- [Artix Manual Install](artix-kde-openrc-install.md)
-- [Devuan Server Install](devuan-server-install.md)
+### Why?
 
-## Guides In Development
+Because systemd represents a shift toward:
 
-- Linux Terminal and Useful Commands Reference
+- Centralization of core system control  
+- Deep integration across system components  
+- Reduced transparency compared to traditional UNIX-style init systems  
+
+More importantly:
+
+> It introduces a layer where external control mechanisms can be embedded at scale.
+
+This includes the growing global push toward:
+
+- Age verification systems  
+- Identity-linked access controls  
+- Device-level enforcement mechanisms  
+
+RebelRx assumes the opposite:
+
+> Operating systems are becoming enforcement layers.
+
+And systemd is the most likely insertion point within Linux.
+
+---
+
+## 🔐 Privacy & Control Philosophy
+
+Across all major platforms (Windows, macOS, iOS, Android), we are already seeing:
+
+- Mandatory account integration  
+- Increasing telemetry and tracking  
+- Platform-level restrictions tied to identity  
+
+Linux is often presented as the alternative.
+
+But:
+
+> Not all Linux is created equal.
+
+Your level of control depends heavily on:
+
+- Your distribution  
+- Your init system  
+- Your willingness to avoid convenience-driven defaults  
+
+---
+
+## 🧱 Recommended Approach (Non-systemd)
+
+To minimize exposure to centralized control layers, this guide focuses on:
+
+### 🔹 Artix Linux (Arch-based)
+
+- No systemd  
+- Rolling release  
+- Multiple init options (OpenRC, runit, s6)  
+- Maximum flexibility and control  
+
+### 🔹 Devuan (Debian-based)
+
+- No systemd  
+- Stable release model  
+- Familiar Debian ecosystem  
+- Ideal for servers and long-term deployments  
+
+👉 Full list of non-systemd based Linux distributions: <https://nosystemd.org/>
+
+---
+
+## 📚 Guides
+
+- [Artix Desktop Manual Install](artix-kde-openrc-install.md)  
+- [Devuan Server Install](devuan-server-install.md)  
+
+---
+
+## 🚧 Guides In Development
+
+- Linux Terminal & Command Reference  
+- System Hardening Guide  
+- Backup & Recovery Strategy  
+
+---
+
+## 🧠 Final Thought
+
+Convenience and control are often inversely related.
+
+This section prioritizes:
+
+> Control — even when it requires more effort.
