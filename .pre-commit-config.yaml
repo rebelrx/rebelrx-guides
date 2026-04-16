@@ -21,7 +21,7 @@ repos:
     hooks:
       - id: codespell
         args:
-          - --ignore-words-list=teh,ans,fo
+          - --ignore-words-list=teh,ans,fo,transferrin
           - --skip=site,.git,venv,.venv,node_modules
 
   - repo: local
