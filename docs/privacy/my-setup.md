@@ -15,7 +15,7 @@ This setup is built around:
 - **Scalability** → Can grow with your needs  
 - **Security** → No unnecessary exposure  
 
-> 💡 This is not a “maximum privacy” setup—it's a **balanced, usable system**.
+> 💡 This is not a “maximum privacy” setup. It's a **balanced, usable system**.
 
 ---
 
@@ -81,7 +81,7 @@ My setup runs across a mix of **self-hosted infrastructure, dedicated appliances
 
 ## 🎮 Gaming & Emulation
 
-### Raspberry Pi 5
+### Raspberry Pi 5 (8GB)
 
 - **OS:** Batocera
 - **Additional:** MiSTer FPGA
