@@ -1,4 +1,4 @@
-# About
+# 📚 About
 
 RebelRx Docs is a public documentation site focused on building sovereign systems, protecting privacy, and improving long-term health through practical, real-world guidance.
 
@@ -109,3 +109,13 @@ Most people outsource understanding to systems they do not control.
 RebelRx exists to help you:
 
 > Take that control back.
+
+---
+
+## 🔒 Site Privacy
+
+RebelRx Docs does **not** use tracking cookies, analytics, or third-party tracking scripts.
+
+No personal data is collected.
+
+> No tracking. No surveillance. No data harvesting.

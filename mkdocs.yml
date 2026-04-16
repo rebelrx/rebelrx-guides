@@ -1,8 +1,8 @@
 site_name: RebelRx Docs
 site_description: Practical guides for Linux, self-hosting, privacy, and evidence-based health education
 site_url: https://docs.rebelrx.tech
-repo_url: https://github.com/rebelrx/rebelrx-guides
-repo_name: rebelrx/rebelrx-guides
+repo_url: https://github.com/rebelrx
+repo_name: rebelrx
 site_author: RebelRx
 copyright: © 2026 RebelRx Group LLC. All rights reserved.
 docs_dir: docs
@@ -34,6 +34,13 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+extra:
+  social:
+    - icon: material/shield-check
+      name: Privacy
+      link: /privacy/
+    - icon: fontawesome/brands/github
+      link: https://github.com/rebelrx
 plugins:
   - search
   - i18n:

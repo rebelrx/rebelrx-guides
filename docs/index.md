@@ -68,3 +68,13 @@ Let's take back our:
 Have a request, feedback, or a topic you want covered?
 
 Reach out: [nmoayer@rebelrx.com](mailto:nmoayer@rebelrx.com)
+
+---
+
+## 🔒 Site Privacy
+
+RebelRx Docs does **not** use tracking cookies, analytics, or third-party tracking scripts.
+
+No personal data is collected.
+
+> No tracking. No surveillance. No data harvesting.

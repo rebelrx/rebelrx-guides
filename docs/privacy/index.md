@@ -58,3 +58,13 @@ If you do nothing else, start here:
 - Switch to an open-source productivity suite like Only Office or BentoPDF
 
 > 💡 These alone dramatically reduce tracking and having your data mined.
+
+---
+
+## 🔒 Site Privacy
+
+RebelRx Docs does **not** use tracking cookies, analytics, or third-party tracking scripts.
+
+No personal data is collected.
+
+> No tracking. No surveillance. No data harvesting.
