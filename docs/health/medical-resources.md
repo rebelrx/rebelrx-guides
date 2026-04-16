@@ -22,7 +22,7 @@ It’s about:
 - Curated protocols  
 - Transparent sourcing  
 
-<a href="https://us.fullscript.com/welcome/rebelrx?utm_medium=webreferral&utm_source=other&utm_campaign=abmwebbuttons_light_200x200.svg&signup_source=website_buttons" target="_top"><img src="https://assets.fullscript.com/buttons/light_200x200.svg" alt="Order supplements through my Fullscript store."></a>
+<a href="https://us.fullscript.com/welcome/rebelrx?utm_medium=webreferral&utm_source=other&utm_campaign=abmwebbuttons_dark_200x200.svg&signup_source=website_buttons" target="_top"><img src="https://assets.fullscript.com/buttons/dark_200x200.svg" alt="Order supplements through my Fullscript store."></a>
 
 ---
 
@@ -243,6 +243,6 @@ Use tools wisely.
 
 ---
 
-> ❌ This is not a replacement for medical care  
-> ❌ This is not protocol-driven treatment  
-> ✅ This is a toolkit for informed decision-making  
+## Disclaimer
+
+This content is educational and not medical advice.
