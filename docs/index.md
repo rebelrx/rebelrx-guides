@@ -1,12 +1,12 @@
 # RebelRx Docs
 
-Practical guides for building sovereign systems, protecting your privacy, and taking control of your health.
+Welcome to RebelRx Docs, a source for practical guides on building sovereign systems, protecting your privacy, and taking control of your health.
 
 ---
 
 ## ⚠️ Core Principle
 
-> If you don’t control your tools, your data, and your inputs — someone else does.
+> If you don’t control your tools, your data, and your inputs, someone else does.
 
 RebelRx Docs exists to help you take that control back.
 
@@ -16,8 +16,8 @@ RebelRx Docs exists to help you take that control back.
 
 RebelRx Docs provides a curated collection of:
 
-- **Linux Guides** → Clean, controllable systems for desktop and server
-- **Homelab** → Self-hosted infrastructure that you own
+- **Linux Guides** → Clean, controllable alternative operating systems for desktop and server
+- **Homelab** → Self-hosted infrastructure that you own and maintain
 - **Privacy** → Reducing dependence on surveillance-based platforms  
 - **Health** → Evidence-aware, root-cause focused education  
 
@@ -32,12 +32,6 @@ These guides were built through:
 - Trial, error, and iteration  
 
 I am a **Doctor of Pharmacy (PharmD) and Registered Pharmacist (RPh)** with years in the pharmaceutical industry, combined with a self-taught background in Linux, self-hosting, and privacy-focused systems.
-
-RebelRx Docs sits at the intersection of:
-
-- Health  
-- Technology  
-- Independent thinking  
 
 ---
 

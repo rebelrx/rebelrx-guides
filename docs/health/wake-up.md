@@ -24,9 +24,6 @@
 
 ## 🧭 Tier 1 — Surface Level (Most People Never Even See This)
 
-<details>
-<summary><strong>Click to expand</strong></summary>
-
 - [Free iPads ruined kids’ reading in Norway](https://www.thetimes.com/world/europe/article/norway-get-kids-reading-again-7rcvm90lm)
 
 - [After several childhood cancer cases at one school, parents question radiation from cell tower](https://www.cbsnews.com/news/cell-tower-shut-down-some-california-parents-link-to-several-cases-of-childhood-cancer/)
@@ -35,14 +32,9 @@
 
 - [Attorney General Ken Paxton Launches Investigation into Lululemon Over Potential Presence of Toxic “Forever Chemicals” in Activewear](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-launches-investigation-lululemon-over-potential-presence-toxic-forever)
 
-</details>
-
 ---
 
 ## 🧪 Tier 2 — What You're Actually Being Exposed To
-
-<details>
-<summary><strong>Click to expand</strong></summary>
 
 - [Many Americans were surprised to learn that roughly 90 percent of cheese contains a lab-made enzyme developed by Pfizer](https://www.dailymail.co.uk/sciencetech/article-15439443/cheese-Pfizers-ingredient-dairy-products.html)
 
@@ -62,14 +54,9 @@
 
 - [Evidence suggests long-term low-dose chemical exposure may have cumulative health effects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222987/)
 
-</details>
-
 ---
 
 ## ⚖️ Tier 3 — Lawsuits, Cover-Ups, and Industry Behavior
-
-<details>
-<summary><strong>Click to expand</strong></summary>
 
 - [DuPont and 3M knowingly exposed populations to PFAS for decades](https://www.nytimes.com/2016/10/06/us/dupont-chemicals-epa.html)
 
@@ -91,14 +78,9 @@
 
 - [U.S. chemical safety laws updated only recently after decades of limited oversight](https://www.epa.gov/tsca-inventory/about-tsca-chemical-substance-inventory)
 
-</details>
-
 ---
 
 ## 🧬 Tier 4 — System-Level Signals Most People Ignore
-
-<details>
-<summary><strong>Click to expand</strong></summary>
 
 - [Microplastics detected in human blood](https://www.theguardian.com/environment/2022/mar/24/microplastics-human-blood-study)
 
@@ -125,8 +107,6 @@
 - [Microplastics found in human placentas, raising concerns about developmental exposure](https://www.sciencedirect.com/science/article/pii/S0160412020322297)
 
 - [Fast fashion products found to contain hazardous chemicals including PFAS and phthalates](https://www.greenpeace.org/international/publication/25421/toxic-threads/)
-
-</details>
 
 ---
 
