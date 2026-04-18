@@ -54,6 +54,15 @@ High-impact replacements for common Big Tech services.
 
 ---
 
+## 🏢 Office Suite
+
+| Replace | With | Why |
+|--------|------|-----|
+| Microsoft Office 365 | [ONLYOFFICE](https://www.onlyoffice.com/) / [Libre Office](https://www.libreoffice.org/) | Open-source |
+| Outlook | [Thunderbird](https://www.thunderbird.net/) / [Radicale](https://radicale.org/) | Open-source |
+
+---
+
 ## 💬 Messaging
 
 | Replace | With | Why |
@@ -156,6 +165,7 @@ High-impact replacements for common Big Tech services.
 - Signal
 - Bitwarden / Proton Pass
 - Proton Mail / Tuta
+- ONLYOFFICE
 
 ---
 

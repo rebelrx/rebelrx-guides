@@ -769,7 +769,7 @@ paru -S brave-bin \
 - **Brave** browser (preferred over Firefox)
 - **Signal** messenger (preferred vs WhatsApp, Telegram, etc)
 - **VSCodium** open-source text editor (preferred over Microsoft's Visual Studio Code)
-- **OnlyOffice** open-source office suite (preferred for greatest compatibility with Microsoft Office)
+- **ONLYOFFICE** open-source office suite (preferred for greatest compatibility with Microsoft Office)
 - **Timeshift Autosnapper** installs a hook so Timeshift automatically creates a backup every time packages are updated through pacman
 
 Flatpak:
@@ -788,13 +788,25 @@ sudo pacman -S \
   ffmpeg \
   libreoffice-fresh \
   obs-studio \
-  evince
 ```
 
 - **VLC** (preferred) **or MPV** media player
 - **FFmpeg** media conversion tools
-- **LibreOffice** office suite (alternative to OnlyOffice)
 - **OBS Studio** open-source recording / screencasting
+
+Office apps:
+
+```bash
+sudo pacman -S \
+  libreoffice-fresh \
+  thunderbird \
+  okular \
+  evince
+```
+
+- **LibreOffice** office suite (alternative to ONLYOFFICE)
+- **Thunderbird** open-source email client (Microsoft Outlook replacement)
+- **Okular** document viewer (default for KDE)
 - **Evince** document viewer (alternative to Okular that's packaged with GNOME)
 
 Gaming:
