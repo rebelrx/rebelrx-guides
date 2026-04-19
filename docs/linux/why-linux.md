@@ -271,13 +271,98 @@ Instead:
 
 * Everything is under `/` (root)
 
-Examples:
+---
 
-* `/home` → user files
-* `/etc` → system configs
-* `/var` → logs and data
+### 📁 Core Directories
 
-> Everything is a file, even devices.
+Here are the main directories you will encounter:
+
+* `/` → the root of the entire filesystem
+* `/home` → user files (your documents, downloads, configs)
+* `/root` → home directory for the root user
+* `/etc` → system-wide configuration files
+* `/var` → variable data (logs, databases, caches)
+* `/usr` → user-installed software and system applications
+* `/bin` → essential command binaries (basic system commands)
+* `/sbin` → system binaries (administrative commands)
+* `/lib` → shared libraries required by binaries
+* `/tmp` → temporary files (often cleared on reboot)
+* `/opt` → optional / third-party software
+* `/mnt` → temporary mount points (manual mounts)
+* `/media` → removable media (USB drives, external disks)
+* `/boot` → bootloader files and kernel images
+* `/dev` → device files (hardware interfaces)
+* `/proc` → virtual filesystem exposing system/process info
+* `/sys` → kernel and hardware interface data
+
+---
+
+### 🧠 How to Think About It
+
+* There is **one unified filesystem**
+* Drives are “mounted” into directories (not assigned letters)
+* Everything lives somewhere under `/`
+
+Example:
+
+* A USB drive might appear at: `/media/usb-drive`
+* A mounted NAS might be: `/mnt/nas`
+
+> You don’t switch drives—you navigate a single tree.
+
+---
+
+### 🔌 Devices in `/dev`
+
+In Linux:
+
+> Hardware devices are exposed as files.
+
+Common examples:
+
+* `/dev/sda` → first storage device (disk)
+* `/dev/sdb` → second storage device
+* `/dev/sda1` → first partition on first disk
+* `/dev/nvme0n1` → NVMe SSD
+* `/dev/nvme0n1p1` → partition on NVMe drive
+* `/dev/ttyUSB0` → USB serial device
+* `/dev/null` → discards all input (black hole)
+* `/dev/random` → random number generator
+
+Example usage:
+
+```bash
+lsblk
+```
+
+Shows disks like:
+
+* `sda`, `sdb`, `nvme0n1`, etc.
+
+---
+
+### ⚠️ Important
+
+Because everything is treated as a file:
+
+* Writing to the wrong device (e.g., `/dev/sda`) can overwrite a disk
+* Mounting incorrectly can hide or replace directory contents
+
+> This is powerful, but requires attention.
+
+---
+
+### 🧠 Key Takeaway
+
+Linux treats:
+
+* Files
+* Devices
+* Processes
+
+as part of the same unified system.
+
+> Once you understand the filesystem, you understand how Linux is organized.
 
 ---
 
@@ -298,7 +383,7 @@ sudo command
 
 One of Linux’s biggest advantages:
 
-> It runs on almost anything.
+> Linux runs on almost anything.
 
 ---
 
