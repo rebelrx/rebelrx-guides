@@ -1,3 +1,8 @@
+<!--
+Source: privacy-policy.md
+Last translated: 2026-04
+-->
+
 # 🔒 Política de privacidad
 
 *Última actualización: 19 de abril de 2026*

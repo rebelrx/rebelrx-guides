@@ -1,5 +1,5 @@
 <!--
-Source: linux/index.md
+Source: homelab/index.md
 Last translated: 2026-04
 -->
 

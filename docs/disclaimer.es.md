@@ -1,3 +1,8 @@
+<!--
+Source: disclaimer.md
+Last translated: 2026-04
+-->
+
 # ⚠️ Aviso legal
 
 *Última actualización: 19 de abril de 2026*

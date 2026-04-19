@@ -1,3 +1,8 @@
+<!--
+Source: terms-of-service.md
+Last translated: 2026-04
+-->
+
 # 📜 Términos de servicio
 
 *Última actualización: 19 de abril de 2026*
