@@ -106,5 +106,3 @@ Packaged foods can be useful for:
 Packaged foods are where most people lose control of quality.
 
 > The fewer ingredients—and the more recognizable—they are, the better.
-
----
