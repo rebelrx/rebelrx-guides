@@ -1,10 +1,21 @@
+# RebelRx Guides
+
+Practical guides for Linux, self-hosting, privacy, homelab infrastructure, and evidence-based health education.
+
+[![Live Site](https://img.shields.io/badge/docs-live-brightgreen)](https://docs.rebelrx.tech)
+[![English](https://img.shields.io/badge/language-English-blue)](https://docs.rebelrx.tech)
+[![Russian](https://img.shields.io/badge/language-Russian-blue)](https://docs.rebelrx.tech/ru/)
+[![Spanish](https://img.shields.io/badge/language-Spanish-blue)](https://docs.rebelrx.tech/es/)
+
 ## 🚀 Live Site
 
 👉 <https://docs.rebelrx.tech>
 
-# RebelRx Guides
+## 🌐 Available Languages
 
-Practical guides for Linux, self-hosting, privacy, homelab infrastructure, and evidence-based health education.
+- 🇺🇸 English
+- 🇷🇺 Russian: <https://docs.rebelrx.tech/ru/>
+- 🇪🇸 Spanish: <https://docs.rebelrx.tech/es/>
 
 ## Topics
 
@@ -12,12 +23,6 @@ Practical guides for Linux, self-hosting, privacy, homelab infrastructure, and e
 - Homelab
 - Privacy
 - Health
-
-## Site
-
-The published documentation lives at:
-
-`https://docs.rebelrx.tech`
 
 ## About
 
