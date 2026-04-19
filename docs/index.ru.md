@@ -72,7 +72,7 @@ RebelRx Docs предоставляет тщательно отобранную 
 
 Есть предложения, обратная связь или темы, которые вы хотите увидеть?
 
-Напишите: [nmoayer@rebelrx.com](mailto:nmoayer@rebelrx.com)
+Напишите: [rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 

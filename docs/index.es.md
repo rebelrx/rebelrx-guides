@@ -72,7 +72,7 @@ Recuperemos nuestra:
 
 ¿Tienes una solicitud, comentario o un tema que te gustaría ver cubierto?
 
-Contáctame: [nmoayer@rebelrx.com](mailto:nmoayer@rebelrx.com)
+Contáctame: [rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 

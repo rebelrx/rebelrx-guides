@@ -67,7 +67,7 @@ Let's take back our:
 
 Have a request, feedback, or a topic you want covered?
 
-Reach out: [nmoayer@rebelrx.com](mailto:nmoayer@rebelrx.com)
+Reach out: [rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 
