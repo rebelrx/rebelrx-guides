@@ -73,6 +73,7 @@ nav:
   - Home: index.md
   - Linux:
       - Overview: linux/index.md
+      - Why Linux: linux/why-linux.md
       - Artix Desktop Install: linux/artix-kde-openrc-install.md
       - Devuan Server Install: linux/devuan-server-install.md
   - Homelab:

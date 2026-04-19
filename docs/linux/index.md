@@ -4,7 +4,7 @@ Guides for building clean, stable, and sovereign Linux systems across desktops, 
 
 This section focuses on:
 
-- Practical installs  
+- Practical Linux installs  
 - Post-install configuration  
 - Real-world troubleshooting  
 - Systems that maximize **user control and independence**  
@@ -13,7 +13,7 @@ This section focuses on:
 
 ## 🧭 What You'll Find Here
 
-- **Install Guides** → Step-by-step setups for curated distributions  
+- **Install Guides** → Step-by-step setups for curated non-systemd Linux distributions  
 - **Post-Install Configuration** → Hardening, usability, performance  
 - **Troubleshooting** → Real-world fixes  
 - **System Philosophy** → How to think about Linux correctly  
@@ -22,7 +22,7 @@ This section focuses on:
 
 ## ⚠️ Core Principle
 
-> Your operating system should serve **you** — not external systems, platforms, or identity frameworks.
+> Your operating system should serve **you** and not external systems, platforms, or identity frameworks.
 
 ---
 
@@ -121,6 +121,4 @@ To minimize exposure to centralized control layers, this guide focuses on:
 
 Convenience and control are often inversely related.
 
-This section prioritizes:
-
-> Control — even when it requires more effort.
+This section prioritizes control even when it requires more effort.

@@ -34,6 +34,8 @@ My setup runs across a mix of **self-hosted infrastructure, dedicated appliances
 
 > 💡 This is the backbone of my entire system
 
+👉 Check out the selection of Minisforum Work Station Mini: <https://www.minisforum.com/collections/station-mini-series>
+
 ---
 
 ### QNAP TS-h1277AXU-RP (NAS)
@@ -47,6 +49,8 @@ My setup runs across a mix of **self-hosted infrastructure, dedicated appliances
 
 > 💡 Separating compute (server) from storage (NAS) improves flexibility and resilience
 
+👉 Check out the selection of QNAP NAS solutions: <https://www.qnap.com/en-us/product>
+
 ---
 
 ## 💻 Personal Systems
@@ -58,6 +62,8 @@ My setup runs across a mix of **self-hosted infrastructure, dedicated appliances
   - High-performance workloads
   - Compatibility with non-Linux software
 
+👉 Check out Micro Center, computer retailer, for nearest locations to you: <https://www.microcenter.com/>
+
 ---
 
 ### Framework Desktop (Artix Linux)
@@ -66,6 +72,8 @@ My setup runs across a mix of **self-hosted infrastructure, dedicated appliances
 - Used for:
   - General productivity
   - Linux-first workflows
+
+👉 Check out the Framework Desktop: <https://frame.work/marketplace/desktops>
 
 ---
 
@@ -77,6 +85,8 @@ My setup runs across a mix of **self-hosted infrastructure, dedicated appliances
   - Managing my home infrastructure
   - Lightweight productivity
 
+👉 Check out the selection of Framework laptops: <https://frame.work/marketplace/laptops>
+
 ---
 
 ## 🎮 Gaming & Emulation
@@ -87,6 +97,8 @@ My setup runs across a mix of **self-hosted infrastructure, dedicated appliances
 - **Additional:** MiSTer FPGA
 - **Role:** Retro gaming / emulation
 
+👉 Check out the Vilros, tech supplier, selection of Raspberry Pi boards and accessories: <https://vilros.com/>
+
 ---
 
 ## 🏠 Dedicated Appliances
@@ -95,6 +107,8 @@ My setup runs across a mix of **self-hosted infrastructure, dedicated appliances
 
 - **Role:** Smart home automation
 - **OS:** Home Assistant OS
+
+👉 Check out the selection of Beelink mini PC: <https://www.bee-link.com/collections/product>
 
 ---
 
@@ -105,12 +119,16 @@ My setup runs across a mix of **self-hosted infrastructure, dedicated appliances
   - Full BTC node
   - Lightning
 
+👉 Check out the selection of Umbrel devices: <https://umbrel.com/>
+
 ---
 
 ### Intel NUC 13
 
 - **Role:** Audio server
 - **OS:** Roon ROCK
+
+👉 Check out B&H for their selection of NUCs and pro tech gear: <https://www.bhphotovideo.com/>
 
 ---
 
@@ -186,6 +204,24 @@ start small, and expand as your needs grow.
 - Google Photos replacement
 - Fast, modern UI
 - Fully self-hosted
+
+---
+
+## 📝 Office
+
+### ONLYOFFICE
+
+- Microsoft Office 365 replacement
+- Full productivity suite (document, spreadsheet, presentation, pdf, and forms editors)
+- Free and open-source
+
+---
+
+## 📄 PDFs & Documents
+
+- Sumatra PDF (lightweight reader)
+- BentoPDF (PDF tooling)
+- Paperless-ngx (document archive)
 
 ---
 
@@ -271,14 +307,6 @@ start small, and expand as your needs grow.
 
 - Audiobooks + podcasts
 - Fully self-hosted
-
----
-
-## 📄 PDFs & Documents
-
-- Sumatra PDF (lightweight reader)
-- BentoPDF (PDF tooling)
-- Paperless-ngx (document archive)
 
 ---
 
