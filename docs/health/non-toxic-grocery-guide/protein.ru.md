@@ -1,3 +1,8 @@
+<!--
+Source: health/non-toxic-grocery-guide/protein.md
+Last translated: 2026-04
+-->
+
 # 🥩 Источники белка
 
 ## 🥚 Яйца

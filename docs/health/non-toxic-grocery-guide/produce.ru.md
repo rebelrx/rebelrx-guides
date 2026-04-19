@@ -1,3 +1,8 @@
+<!--
+Source: health/non-toxic-grocery-guide/produce.md
+Last translated: 2026-04
+-->
+
 # 🍎 Овощи и фрукты
 
 ## 🌿 Высокий приоритет для органических продуктов

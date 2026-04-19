@@ -1,3 +1,8 @@
+<!--
+Source: health/non-toxic-grocery-guide/shopping-framework.md
+Last translated: 2026-04
+-->
+
 # 🧠 Основная философия питания
 
 > Чем меньше ингредиентов — тем лучше.

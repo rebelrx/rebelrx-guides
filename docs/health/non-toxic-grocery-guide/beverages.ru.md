@@ -1,3 +1,8 @@
+<!--
+Source: health/non-toxic-grocery-guide/beverages.md
+Last translated: 2026-04
+-->
+
 # 🥤 Напитки
 
 ## 🚰 Вода

@@ -1,3 +1,8 @@
+<!--
+Source: health/non-toxic-grocery-guide/dairy.md
+Last translated: 2026-04
+-->
+
 # 🥛 Молочные продукты (если переносите)
 
 Качество молочных продуктов значительно варьируется.

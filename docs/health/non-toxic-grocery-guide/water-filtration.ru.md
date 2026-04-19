@@ -1,3 +1,8 @@
+<!--
+Source: health/non-toxic-grocery-guide/water-filtration.md
+Last translated: 2026-04
+-->
+
 # 🚰 Фильтрация воды
 
 Источник воды — один из самых постоянных ежедневных факторов воздействия.

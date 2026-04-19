@@ -1,3 +1,8 @@
+<!--
+Source: health/non-toxic-grocery-guide/carbohydrates.md
+Last translated: 2026-04
+-->
+
 # 🌾 Углеводы
 
 Углеводы сами по себе не являются «хорошими» или «плохими».

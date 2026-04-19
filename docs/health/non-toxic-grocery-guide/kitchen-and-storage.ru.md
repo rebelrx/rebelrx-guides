@@ -1,3 +1,8 @@
+<!--
+Source: health/non-toxic-grocery-guide/kitchen-and-storage.md
+Last translated: 2026-04
+-->
+
 # 🧊 Хранение и кухня (нетоксичная система)
 
 ## 🫙 Контейнеры

@@ -1,3 +1,8 @@
+<!--
+Source: health/non-toxic-grocery-guide/pantry-staples.md
+Last translated: 2026-04
+-->
+
 # 🧂 Базовые продукты (Pantry Staples)
 
 ## 🍯 Более безопасные подсластители

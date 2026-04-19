@@ -1,3 +1,8 @@
+<!--
+Source: health/non-toxic-grocery-guide/fats-and-oils.md
+Last translated: 2026-04
+-->
+
 # 🧈 Жиры и масла
 
 ## 🍳 Кулинарные масла
