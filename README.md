@@ -6,6 +6,7 @@ Practical guides for Linux, self-hosting, privacy, homelab infrastructure, and e
 [![English](https://img.shields.io/badge/language-English-blue)](https://docs.rebelrx.tech)
 [![Russian](https://img.shields.io/badge/language-Russian-blue)](https://docs.rebelrx.tech/ru/)
 [![Spanish](https://img.shields.io/badge/language-Spanish-blue)](https://docs.rebelrx.tech/es/)
+[![Chinese](https://img.shields.io/badge/language-Chinese-blue)](https://docs.rebelrx.tech/zh/)
 
 ## 🚀 Live Site
 
@@ -16,6 +17,7 @@ Practical guides for Linux, self-hosting, privacy, homelab infrastructure, and e
 - 🇺🇸 English
 - 🇷🇺 Russian: <https://docs.rebelrx.tech/ru/>
 - 🇪🇸 Spanish: <https://docs.rebelrx.tech/es/>
+- 🇨🇳 Chinese: <https://docs.rebelrx.tech/zh/>
 
 ## Topics
 
