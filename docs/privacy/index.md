@@ -1,6 +1,6 @@
 # 🛡️ Privacy-First Living
 
-A practical guide to reducing reliance on Big Tech (Google, Apple, etc.) and taking control of your data—without breaking your workflow.
+A practical guide to reducing reliance on Big Tech (Google, Apple, etc.) and taking control of your data without breaking your workflow.
 
 ---
 

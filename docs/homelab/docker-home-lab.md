@@ -278,6 +278,21 @@ docker compose pull
 docker compose up -d
 ```
 
+## 🔄 Stopping and Starting Containers
+
+```bash
+docker compose down
+docker compose up -d
+```
+
+## 🔄 Re-starting Containers
+
+```bash
+docker compose restart [service_name]
+```
+
+💡 Download the Ultimate Docker Compose Cheat Sheet from DevOps Cycle: [Docker Compose Cheat Sheet](https://devopscycle.com/pdfs/the-ultimate-docker-compose-cheat-sheet.pdf)
+
 ---
 
 ## 🧼 Cleanup

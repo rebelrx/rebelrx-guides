@@ -44,7 +44,7 @@ Las plataformas gratuitas operadas por Big Tech ganan dinero mediante:
 
 ### 1. Agregación de Datos
 
-Tus datos no están aislados—se combinan entre múltiples servicios.
+Tus datos no están aislados. Se combinan entre múltiples servicios.
 
 ---
 

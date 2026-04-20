@@ -39,7 +39,7 @@ Free platforms run by big tech make money by:
 
 ### 1. Data Aggregation
 
-Your data isn’t isolated—it’s combined across services.
+Your data isn’t isolated. It’s combined across services.
 
 ---
 

@@ -5,7 +5,7 @@ Last translated: 2026-04
 
 # 🛡️ Vida con Enfoque en la Privacidad
 
-Una guía práctica para reducir la dependencia de Big Tech (Google, Apple, etc.) y tomar el control de tus datos—sin romper tu flujo de trabajo.
+Una guía práctica para reducir la dependencia de Big Tech (Google, Apple, etc.) y tomar el control de tus datos sin romper tu flujo de trabajo.
 
 ---
 
