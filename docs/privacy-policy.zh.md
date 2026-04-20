@@ -124,7 +124,7 @@ RebelRx **不对这些网站的隐私做法负责**。
 如对本隐私政策有任何疑问：
 
 **RebelRx Group LLC**
-<https://rebelrx.com>
+[rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 

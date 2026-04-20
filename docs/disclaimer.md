@@ -119,7 +119,7 @@ RebelRx Group LLC shall not be liable for any damages resulting from:
 For questions about this Disclaimer:
 
 **RebelRx Group LLC**  
-<https://rebelrx.com>
+[rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 

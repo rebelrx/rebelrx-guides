@@ -119,7 +119,7 @@ The “Last updated” date will reflect any revisions.
 For questions about this Privacy Policy:
 
 **RebelRx Group LLC**  
-<https://rebelrx.com>
+[rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 

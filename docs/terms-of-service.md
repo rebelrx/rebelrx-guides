@@ -111,7 +111,7 @@ These Terms are governed by the laws of the United States, without regard to con
 For questions about these Terms:
 
 **RebelRx Group LLC**  
-<https://rebelrx.com>
+[rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 

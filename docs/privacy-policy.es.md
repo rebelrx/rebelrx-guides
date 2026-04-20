@@ -124,7 +124,7 @@ La fecha de “Última actualización” reflejará cualquier revisión.
 Para preguntas sobre esta Política de privacidad:
 
 **RebelRx Group LLC**
-<https://rebelrx.com>
+[rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 

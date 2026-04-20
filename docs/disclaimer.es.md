@@ -124,7 +124,7 @@ RebelRx Group LLC no será responsable de ningún daño derivado de:
 Para preguntas sobre este Aviso legal:
 
 **RebelRx Group LLC**
-<https://rebelrx.com>
+[rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 

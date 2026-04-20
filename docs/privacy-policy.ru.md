@@ -124,7 +124,7 @@ RebelRx **не несет ответственности** за политику
 По вопросам, связанным с данной Политикой конфиденциальности:
 
 **RebelRx Group LLC**
-<https://rebelrx.com>
+[rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 

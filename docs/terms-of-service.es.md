@@ -116,7 +116,7 @@ Estos Términos se rigen por las leyes de los Estados Unidos, sin tener en cuent
 Para preguntas sobre estos Términos:
 
 **RebelRx Group LLC**
-<https://rebelrx.com>
+[rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 

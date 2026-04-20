@@ -116,7 +116,7 @@ RebelRx 不对因以下原因产生的任何损害承担责任：
 如对本条款有任何疑问：
 
 **RebelRx Group LLC**
-<https://rebelrx.com>
+[rebelrxgroup@pm.me](mailto:rebelrxgroup@pm.me)
 
 ---
 
