@@ -1,0 +1,44 @@
+name: Deploy MkDocs Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install system deps
+        run: |
+          apt-get update
+          apt-get install -y python3 python3-pip rsync openssh-client
+
+      - name: Install MkDocs
+        run: |
+          pip3 install --break-system-packages \
+            mkdocs \
+            mkdocs-material \
+            mkdocs-static-i18n
+
+      - name: Build site
+        run: |
+          mkdocs build --strict --clean
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.VPS_SSH_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -H "${{ secrets.VPS_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Deploy via rsync
+        run: |
+          rsync -avz --delete \
+            -e "ssh -i ~/.ssh/deploy_key" \
+            site/ \
+            "${{ secrets.VPS_USER }}@${{ secrets.VPS_HOST }}:${{ secrets.VPS_TARGET_DIR }}/"
